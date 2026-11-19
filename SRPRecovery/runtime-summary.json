@@ -1,0 +1,12 @@
+{
+  "typeDeclarations": 327,
+  "methodEntries": 1533,
+  "uniqueNativeFunctionStarts": 1161,
+  "extractionFailures": 0,
+  "pdataBoundedFunctions": 1016,
+  "inferredExtentFunctions": 145,
+  "functionsWithPartialLinearDisassembly": 0,
+  "methodBodiesRecoveredAsExecutableCSharp": 0,
+  "binarySha256": "a7b0c5a36f199642a546d7b3454c338aaaa5ff93eddccb5dd3af1b2970d8ab25",
+  "metadataSha256": "ad09ff05ac8553882e300e3d34426d207af41f6aa791de838dcf57d6c8acc3cc"
+}

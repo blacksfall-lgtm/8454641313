@@ -23,3 +23,14 @@ Vulkan：1,052 份 SPIR-V 中，1,046 份生成 HLSL；964 份直接通过编译
 [完整环境场景包及备用下载](https://github.com/blacksfall-lgtm/8454641313/releases/tag/environment-1-1-3-20261119)
 
 仓库文件内保存完整恢复包的 4 个分卷（ShaderRecovery/Shader_Recovery.zip.001 至 .004）。下载该目录全部文件后，运行 Restore_Shader_Recovery.ps1 即可合并并自动校验；完整压缩包也可通过上方 Releases 链接直接下载。
+
+
+## SRP 配置与运行侧恢复
+
+- [完整补充包 SRP_Recovery.zip](SRPRecovery/SRP_Recovery.zip)
+- [交接说明](SRPRecovery/README.md)
+- [核心配置与资源引用](SRPRecovery/核心配置与资源引用.md)
+- [运行调度分析](SRPRecovery/运行调度分析.md)
+
+已恢复三项核心管线配置、133 份配置对象（含 26 个 Volume Profile）、精确资源引用与纹理数据。
+原生运行侧保留 1,161 个去重函数入口及汇编/调用证据。运行方法体尚未恢复为可执行 C#；配置不能直接作为已接通的 Unity SRP 启用。

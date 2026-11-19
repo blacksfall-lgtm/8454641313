@@ -1,0 +1,1136 @@
+[
+  {
+    "ownerId": "RenderPipelineAsset--18fc655d5572",
+    "field": "renderPipelineResources",
+    "pointer": {
+      "m_FileID": 0,
+      "m_PathID": 5127
+    },
+    "target": {
+      "sha256": "f6f5f6951c0123b5786faf1ad44ef9ee911fed6672dc1199f93751aca5106b86",
+      "class": "MonoBehaviour",
+      "pathID": 5127,
+      "serializedFile": "globalgamemanagers.assets",
+      "name": "RenderPipelineResources",
+      "directory": "ResourceObjects/RenderPipelineResources--f6f5f6951c01"
+    }
+  },
+  {
+    "ownerId": "RenderPipelineAsset--18fc655d5572",
+    "field": "renderPipelineConfig",
+    "pointer": {
+      "m_FileID": 0,
+      "m_PathID": 5126
+    },
+    "target": {
+      "sha256": "f85226cd4044021abdfb965ea648a2a2a702e0a99677863d9fdf0798924e1e3d",
+      "class": "MonoBehaviour",
+      "pathID": 5126,
+      "serializedFile": "globalgamemanagers.assets",
+      "name": "RenderPipelineConfig",
+      "directory": "ResourceObjects/RenderPipelineConfig--f85226cd4044"
+    }
+  },
+  {
+    "ownerId": "RenderPipelineAsset--18fc655d5572",
+    "field": "litDefaultMaterial",
+    "pointer": {
+      "m_FileID": 0,
+      "m_PathID": 4
+    },
+    "target": {
+      "sha256": "7abaebaea776cb7446517017e50f34152ce097be20d98a64d968a7b4a9b4d149",
+      "class": "Material",
+      "pathID": 4,
+      "serializedFile": "globalgamemanagers.assets",
+      "name": "LitDefault",
+      "directory": "ResourceObjects/LitDefault--7abaebaea776"
+    }
+  },
+  {
+    "ownerId": "RenderPipelineAsset--18fc655d5572",
+    "field": "particleDefaultMaterial",
+    "pointer": {
+      "m_FileID": 0,
+      "m_PathID": 5
+    },
+    "target": {
+      "sha256": "5189bde59c32fc6fbc382452cca022abc71a6520ceaded4b05c7ef4c1c244ead",
+      "class": "Material",
+      "pathID": 5,
+      "serializedFile": "globalgamemanagers.assets",
+      "name": "ParticleUnlitDefault",
+      "directory": "ResourceObjects/ParticleUnlitDefault--5189bde59c32"
+    }
+  },
+  {
+    "ownerId": "RenderPipelineAsset--18fc655d5572",
+    "field": "proBuilderDefaultMaterial",
+    "pointer": {
+      "m_FileID": 0,
+      "m_PathID": 6
+    },
+    "target": {
+      "sha256": "4cd0c2ee03452dacefd7f8b6e469249181dff02391654b53f5fed0a9a5729311",
+      "class": "Material",
+      "pathID": 6,
+      "serializedFile": "globalgamemanagers.assets",
+      "name": "ScsProBuilderDefault",
+      "directory": "ResourceObjects/ScsProBuilderDefault--4cd0c2ee0345"
+    }
+  },
+  {
+    "ownerId": "RenderPipelineAsset--18fc655d5572",
+    "field": "decalDefaultMaterial",
+    "pointer": {
+      "m_FileID": 0,
+      "m_PathID": 3
+    },
+    "target": {
+      "sha256": "059ecc0b9a991d45cad3a787984660e4d12909f6ebf6c7aac2693c7f44cce7ef",
+      "class": "Material",
+      "pathID": 3,
+      "serializedFile": "globalgamemanagers.assets",
+      "name": "DecalDefault",
+      "directory": "ResourceObjects/DecalDefault--059ecc0b9a99"
+    }
+  },
+  {
+    "ownerId": "RenderPipelineResources--f6f5f6951c01",
+    "field": "integrateDfgLutCompute",
+    "pointer": {
+      "m_FileID": 0,
+      "m_PathID": 58
+    },
+    "target": {
+      "sha256": "1772e83721c712a937207cefdbe6a31af9dec06541c2844a3caba342037f3d5c",
+      "class": "ComputeShader",
+      "pathID": 58,
+      "serializedFile": "globalgamemanagers.assets",
+      "name": "IntegrateDfgLut",
+      "shaderRecoveryId": "IntegrateDfgLut--1772e83721c7",
+      "shaderRecoveryDirectory": "Shaders/IntegrateDfgLut--1772e83721c7",
+      "shaderRecoveryArchive": "Shader_Recovery.zip"
+    }
+  },
+  {
+    "ownerId": "RenderPipelineResources--f6f5f6951c01",
+    "field": "integrateSpecularLdShader",
+    "pointer": {
+      "m_FileID": 0,
+      "m_PathID": 39
+    },
+    "target": {
+      "sha256": "89f3be3473ab6ca5a982aa71bf55fa3e97240f03225b9072e2196da098baaba0",
+      "class": "Shader",
+      "pathID": 39,
+      "serializedFile": "globalgamemanagers.assets",
+      "name": "",
+      "shaderRecoveryId": "Hidden_SadCatStudios_IntegrateLd--89f3be3473ab",
+      "shaderRecoveryDirectory": "Shaders/Hidden_SadCatStudios_IntegrateLd--89f3be3473ab",
+      "shaderRecoveryArchive": "Shader_Recovery.zip"
+    }
+  },
+  {
+    "ownerId": "RenderPipelineResources--f6f5f6951c01",
+    "field": "clusteredLightListBuildCompute",
+    "pointer": {
+      "m_FileID": 0,
+      "m_PathID": 62
+    },
+    "target": {
+      "sha256": "f21fd5d793b92393182408666ef3cdf44e22736d0a970a1cc986c6846d86c8c8",
+      "class": "ComputeShader",
+      "pathID": 62,
+      "serializedFile": "globalgamemanagers.assets",
+      "name": "ClusteredLightListBuild",
+      "shaderRecoveryId": "ClusteredLightListBuild--f21fd5d793b9",
+      "shaderRecoveryDirectory": "Shaders/ClusteredLightListBuild--f21fd5d793b9",
+      "shaderRecoveryArchive": "Shader_Recovery.zip"
+    }
+  },
+  {
+    "ownerId": "RenderPipelineResources--f6f5f6951c01",
+    "field": "clusteredLightListHeatmapShader",
+    "pointer": {
+      "m_FileID": 0,
+      "m_PathID": 24
+    },
+    "target": {
+      "sha256": "37a57de049a95ab577df7886eeb4e0cc148e329cd7ba1699987400a24f5929dd",
+      "class": "Shader",
+      "pathID": 24,
+      "serializedFile": "globalgamemanagers.assets",
+      "name": "",
+      "shaderRecoveryId": "Hidden_SadCatStudios_ClusteredLightListHeatmap--37a57de049a9",
+      "shaderRecoveryDirectory": "Shaders/Hidden_SadCatStudios_ClusteredLightListHeatmap--37a57de049a9",
+      "shaderRecoveryArchive": "Shader_Recovery.zip"
+    }
+  },
+  {
+    "ownerId": "RenderPipelineResources--f6f5f6951c01",
+    "field": "texDfgLut",
+    "pointer": {
+      "m_FileID": 0,
+      "m_PathID": 14
+    },
+    "target": {
+      "sha256": "3484f0335361926db426e5d78d59326e00314d4c865049eb6f0c9915b070ce3e",
+      "class": "Texture2D",
+      "pathID": 14,
+      "serializedFile": "globalgamemanagers.assets",
+      "name": "dfg_lut",
+      "directory": "ResourceObjects/dfg_lut--3484f0335361",
+      "streamPayload": {
+        "file": "ResourceObjects/dfg_lut--3484f0335361/streamed-payload.bin",
+        "bytes": 12288,
+        "sha256": "2be9446cc3ab84e46b3937bcdfd47adcd6e2b46aaf8514ee97d96a73686649f4"
+      }
+    }
+  },
+  {
+    "ownerId": "RenderPipelineResources--f6f5f6951c01",
+    "field": "texBlankSceneNormal",
+    "pointer": {
+      "m_FileID": 0,
+      "m_PathID": 13
+    },
+    "target": {
+      "sha256": "bbd4fac46d18842fb4db1a5b026d87eed618b1673c433a0ba3bf59c775094ed5",
+      "class": "Texture2D",
+      "pathID": 13,
+      "serializedFile": "globalgamemanagers.assets",
+      "name": "BlankSceneNormal",
+      "directory": "ResourceObjects/BlankSceneNormal--bbd4fac46d18",
+      "streamPayload": {
+        "file": "ResourceObjects/BlankSceneNormal--bbd4fac46d18/streamed-payload.bin",
+        "bytes": 8,
+        "sha256": "dd65aa12b49ab0ce87ae723d699b8677d83bed617976e59de3c241dfdb3bbf46"
+      }
+    }
+  },
+  {
+    "ownerId": "RenderPipelineResources--f6f5f6951c01",
+    "field": "texWhiteTexture2DArray",
+    "pointer": {
+      "m_FileID": 0,
+      "m_PathID": 5120
+    },
+    "target": {
+      "sha256": "22c45c4358c4229885857303ebd41dfb0ae09b9b3feaf27f8deb2bf9cc6c9312",
+      "class": "Texture2DArray",
+      "pathID": 5120,
+      "serializedFile": "globalgamemanagers.assets",
+      "name": "WhiteTexture2DArray",
+      "directory": "ResourceObjects/WhiteTexture2DArray--22c45c4358c4",
+      "streamPayload": {
+        "file": "ResourceObjects/WhiteTexture2DArray--22c45c4358c4/streamed-payload.bin",
+        "bytes": 8,
+        "sha256": "9603521686a18e094a5ae3e2f11eb746b17c349e8ddda10e26707877ca1b2213"
+      }
+    }
+  },
+  {
+    "ownerId": "RenderPipelineResources--f6f5f6951c01",
+    "field": "texBlankGlobalIllumination",
+    "pointer": {
+      "m_FileID": 0,
+      "m_PathID": 5121
+    },
+    "target": {
+      "sha256": "6ea245af6d042d1fca6a97f36e3832085fd001f0b679a4073154af8dceb2bd43",
+      "class": "Texture2DArray",
+      "pathID": 5121,
+      "serializedFile": "globalgamemanagers.assets",
+      "name": "BlankGlobalIllumination",
+      "directory": "ResourceObjects/BlankGlobalIllumination--6ea245af6d04",
+      "streamPayload": {
+        "file": "ResourceObjects/BlankGlobalIllumination--6ea245af6d04/streamed-payload.bin",
+        "bytes": 16,
+        "sha256": "669b1571eb63215a250410677ef9b787cc14425fa7c22c5cda6792cbde931d6d"
+      }
+    }
+  },
+  {
+    "ownerId": "RenderPipelineResources--f6f5f6951c01",
+    "field": "generateDensityBufferLitCompute",
+    "pointer": {
+      "m_FileID": 0,
+      "m_PathID": 57
+    },
+    "target": {
+      "sha256": "bf8ab20cbbab24e233b05dbed9739eb56a0c82657e4584cc3a7733d0c5125e9d",
+      "class": "ComputeShader",
+      "pathID": 57,
+      "serializedFile": "globalgamemanagers.assets",
+      "name": "GenerateDensityBufferLit",
+      "shaderRecoveryId": "GenerateDensityBufferLit--bf8ab20cbbab",
+      "shaderRecoveryDirectory": "Shaders/GenerateDensityBufferLit--bf8ab20cbbab",
+      "shaderRecoveryArchive": "Shader_Recovery.zip"
+    }
+  },
+  {
+    "ownerId": "RenderPipelineResources--f6f5f6951c01",
+    "field": "cameraScatteredLightIntegrationCompute",
+    "pointer": {
+      "m_FileID": 0,
+      "m_PathID": 60
+    },
+    "target": {
+      "sha256": "72201d0a6b1fb5d1ac5d7fcb6e277ab89a8f59a00ae4aa3bc105c0a78af4e5ec",
+      "class": "ComputeShader",
+      "pathID": 60,
+      "serializedFile": "globalgamemanagers.assets",
+      "name": "CameraScatteredLightIntegration",
+      "shaderRecoveryId": "CameraScatteredLightIntegration--72201d0a6b1f",
+      "shaderRecoveryDirectory": "Shaders/CameraScatteredLightIntegration--72201d0a6b1f",
+      "shaderRecoveryArchive": "Shader_Recovery.zip"
+    }
+  },
+  {
+    "ownerId": "RenderPipelineResources--f6f5f6951c01",
+    "field": "texBlankScatteringTransmittance",
+    "pointer": {
+      "m_FileID": 0,
+      "m_PathID": 5115
+    },
+    "target": {
+      "sha256": "cbdcef18e1d6f200d1a017c4a303f7bf29683f87403fac1eb133ed3b8449dca1",
+      "class": "Texture3D",
+      "pathID": 5115,
+      "serializedFile": "globalgamemanagers.assets",
+      "name": "BlankScatteringTransmittance",
+      "directory": "ResourceObjects/BlankScatteringTransmittance--cbdcef18e1d6",
+      "streamPayload": {
+        "file": "ResourceObjects/BlankScatteringTransmittance--cbdcef18e1d6/streamed-payload.bin",
+        "bytes": 56,
+        "sha256": "1b3578d10547d383abd0d59cfbd225e606eb3b5ad230f5fe189944326bb1bf3b"
+      }
+    }
+  },
+  {
+    "ownerId": "RenderPipelineResources--f6f5f6951c01",
+    "field": "texVolumetric3DNoise",
+    "pointer": {
+      "m_FileID": 0,
+      "m_PathID": 5117
+    },
+    "target": {
+      "sha256": "363cac0355caebcc45e504da4c8bd34e0179e61e4a78f18d662c4ed78fcebacf",
+      "class": "Texture3D",
+      "pathID": 5117,
+      "serializedFile": "globalgamemanagers.assets",
+      "name": "VolumetricNoise3D",
+      "directory": "ResourceObjects/VolumetricNoise3D--363cac0355ca",
+      "streamPayload": {
+        "file": "ResourceObjects/VolumetricNoise3D--363cac0355ca/streamed-payload.bin",
+        "bytes": 37496,
+        "sha256": "3a45c3d28bf3377d516c08021646deb2f6879a91dbcc345c5c045201c087e388"
+      }
+    }
+  },
+  {
+    "ownerId": "RenderPipelineResources--f6f5f6951c01",
+    "field": "texVolumetric3DCurlNoise",
+    "pointer": {
+      "m_FileID": 0,
+      "m_PathID": 5118
+    },
+    "target": {
+      "sha256": "28591f5d79bf8de86117dfcb3d0803e611bdc811d48d4c649353c151fed96942",
+      "class": "Texture3D",
+      "pathID": 5118,
+      "serializedFile": "globalgamemanagers.assets",
+      "name": "VolumetricCurlNoise3D",
+      "directory": "ResourceObjects/VolumetricCurlNoise3D--28591f5d79bf",
+      "streamPayload": {
+        "file": "ResourceObjects/VolumetricCurlNoise3D--28591f5d79bf/streamed-payload.bin",
+        "bytes": 1198392,
+        "sha256": "4a333f11a9a22c7b4895624f2c529e323c525c9cb6399d879bddb66ced0ea5cb"
+      }
+    }
+  },
+  {
+    "ownerId": "RenderPipelineResources--f6f5f6951c01",
+    "field": "texCelestialBodyBaseColor",
+    "pointer": {
+      "m_FileID": 0,
+      "m_PathID": 12
+    },
+    "target": {
+      "sha256": "b8440ff8c2950221c70524b21a65c0e12819a0b6b9856f96fe177f74ae94044d",
+      "class": "Texture2D",
+      "pathID": 12,
+      "serializedFile": "globalgamemanagers.assets",
+      "name": "default_celestial_body",
+      "directory": "ResourceObjects/default_celestial_body--b8440ff8c295",
+      "streamPayload": {
+        "file": "ResourceObjects/default_celestial_body--b8440ff8c295/streamed-payload.bin",
+        "bytes": 5488,
+        "sha256": "c332604aa1037db58766109cb5be4fb12da6bdb3bbfd235c429c2c89a2f63de3"
+      }
+    }
+  },
+  {
+    "ownerId": "RenderPipelineResources--f6f5f6951c01",
+    "field": "generateHIZCompute",
+    "pointer": {
+      "m_FileID": 0,
+      "m_PathID": 50
+    },
+    "target": {
+      "sha256": "acbc2b084bd9927daa450956a707ae935ce7fec0ac2926099c588f04ed457fac",
+      "class": "ComputeShader",
+      "pathID": 50,
+      "serializedFile": "globalgamemanagers.assets",
+      "name": "GenerateHIZ",
+      "shaderRecoveryId": "GenerateHIZ--acbc2b084bd9",
+      "shaderRecoveryDirectory": "Shaders/GenerateHIZ--acbc2b084bd9",
+      "shaderRecoveryArchive": "Shader_Recovery.zip"
+    }
+  },
+  {
+    "ownerId": "RenderPipelineResources--f6f5f6951c01",
+    "field": "copyDepthShader",
+    "pointer": {
+      "m_FileID": 0,
+      "m_PathID": 23
+    },
+    "target": {
+      "sha256": "c8d31e8fa385e61f2bd14f82ce69c08d0c1f7242bceab5678d954578348ee973",
+      "class": "Shader",
+      "pathID": 23,
+      "serializedFile": "globalgamemanagers.assets",
+      "name": "",
+      "shaderRecoveryId": "Hidden_SadCatStudios_CopyDepth--c8d31e8fa385",
+      "shaderRecoveryDirectory": "Shaders/Hidden_SadCatStudios_CopyDepth--c8d31e8fa385",
+      "shaderRecoveryArchive": "Shader_Recovery.zip"
+    }
+  },
+  {
+    "ownerId": "RenderPipelineResources--f6f5f6951c01",
+    "field": "downsampleSceneDataCompute",
+    "pointer": {
+      "m_FileID": 0,
+      "m_PathID": 48
+    },
+    "target": {
+      "sha256": "67524265d3f65c5828e2f8fa23d0b938dbaf6e8f823acd4d6b0db03995c602f5",
+      "class": "ComputeShader",
+      "pathID": 48,
+      "serializedFile": "globalgamemanagers.assets",
+      "name": "DownsampleSceneData",
+      "shaderRecoveryId": "DownsampleSceneData--67524265d3f6",
+      "shaderRecoveryDirectory": "Shaders/DownsampleSceneData--67524265d3f6",
+      "shaderRecoveryArchive": "Shader_Recovery.zip"
+    }
+  },
+  {
+    "ownerId": "RenderPipelineResources--f6f5f6951c01",
+    "field": "radianceSourceGenerationCompute",
+    "pointer": {
+      "m_FileID": 0,
+      "m_PathID": 51
+    },
+    "target": {
+      "sha256": "62a4815120d0c63884d1c5b244e24904e09721d276a5385a2c245b83481991db",
+      "class": "ComputeShader",
+      "pathID": 51,
+      "serializedFile": "globalgamemanagers.assets",
+      "name": "RadianceSourceGeneration",
+      "shaderRecoveryId": "RadianceSourceGeneration--62a4815120d0",
+      "shaderRecoveryDirectory": "Shaders/RadianceSourceGeneration--62a4815120d0",
+      "shaderRecoveryArchive": "Shader_Recovery.zip"
+    }
+  },
+  {
+    "ownerId": "RenderPipelineResources--f6f5f6951c01",
+    "field": "radianceSourceFilteringCompute",
+    "pointer": {
+      "m_FileID": 0,
+      "m_PathID": 56
+    },
+    "target": {
+      "sha256": "3b9963c6cad509c2bc1104f79a51587e27e522e3ff141f05c64b127ca6903ac6",
+      "class": "ComputeShader",
+      "pathID": 56,
+      "serializedFile": "globalgamemanagers.assets",
+      "name": "RadianceSourceFiltering",
+      "shaderRecoveryId": "RadianceSourceFiltering--3b9963c6cad5",
+      "shaderRecoveryDirectory": "Shaders/RadianceSourceFiltering--3b9963c6cad5",
+      "shaderRecoveryArchive": "Shader_Recovery.zip"
+    }
+  },
+  {
+    "ownerId": "RenderPipelineResources--f6f5f6951c01",
+    "field": "ssdoEstimateCompute",
+    "pointer": {
+      "m_FileID": 0,
+      "m_PathID": 61
+    },
+    "target": {
+      "sha256": "f98f83c22ff5cca2ea9ad58013a03fb05d56440a82e2792a6b1e542bd184e4ea",
+      "class": "ComputeShader",
+      "pathID": 61,
+      "serializedFile": "globalgamemanagers.assets",
+      "name": "SsdoEstimate",
+      "shaderRecoveryId": "SsdoEstimate--f98f83c22ff5",
+      "shaderRecoveryDirectory": "Shaders/SsdoEstimate--f98f83c22ff5",
+      "shaderRecoveryArchive": "Shader_Recovery.zip"
+    }
+  },
+  {
+    "ownerId": "RenderPipelineResources--f6f5f6951c01",
+    "field": "ssdoFilterCompute",
+    "pointer": {
+      "m_FileID": 0,
+      "m_PathID": 40
+    },
+    "target": {
+      "sha256": "d3fd67264a741052440723b131885e0ce64897c0148d6346f5becec04a9c257e",
+      "class": "ComputeShader",
+      "pathID": 40,
+      "serializedFile": "globalgamemanagers.assets",
+      "name": "SsdoFilter",
+      "shaderRecoveryId": "SsdoFilter--d3fd67264a74",
+      "shaderRecoveryDirectory": "Shaders/SsdoFilter--d3fd67264a74",
+      "shaderRecoveryArchive": "Shader_Recovery.zip"
+    }
+  },
+  {
+    "ownerId": "RenderPipelineResources--f6f5f6951c01",
+    "field": "ssrTraceCompute",
+    "pointer": {
+      "m_FileID": 0,
+      "m_PathID": 64
+    },
+    "target": {
+      "sha256": "ea0ed0b02f9be4e2d11102935c2cebd022bfde55c64008dcf8a7ebff6e12133c",
+      "class": "ComputeShader",
+      "pathID": 64,
+      "serializedFile": "globalgamemanagers.assets",
+      "name": "SsrTrace",
+      "shaderRecoveryId": "SsrTrace--ea0ed0b02f9b",
+      "shaderRecoveryDirectory": "Shaders/SsrTrace--ea0ed0b02f9b",
+      "shaderRecoveryArchive": "Shader_Recovery.zip"
+    }
+  },
+  {
+    "ownerId": "RenderPipelineResources--f6f5f6951c01",
+    "field": "ssrResolveCompute",
+    "pointer": {
+      "m_FileID": 0,
+      "m_PathID": 42
+    },
+    "target": {
+      "sha256": "c6b42ebfa3fa8782f4dd45265bee7226273fa062e7fcb4b454fdd909a3c7bb30",
+      "class": "ComputeShader",
+      "pathID": 42,
+      "serializedFile": "globalgamemanagers.assets",
+      "name": "SsrResolve",
+      "shaderRecoveryId": "SsrResolve--c6b42ebfa3fa",
+      "shaderRecoveryDirectory": "Shaders/SsrResolve--c6b42ebfa3fa",
+      "shaderRecoveryArchive": "Shader_Recovery.zip"
+    }
+  },
+  {
+    "ownerId": "RenderPipelineResources--f6f5f6951c01",
+    "field": "ssrFilterCompute",
+    "pointer": {
+      "m_FileID": 0,
+      "m_PathID": 55
+    },
+    "target": {
+      "sha256": "f8a944c69c2870d94de1f0eb467543f1790e16904ae41b4c179ac45a75e1ae2a",
+      "class": "ComputeShader",
+      "pathID": 55,
+      "serializedFile": "globalgamemanagers.assets",
+      "name": "SsrFilter",
+      "shaderRecoveryId": "SsrFilter--f8a944c69c28",
+      "shaderRecoveryDirectory": "Shaders/SsrFilter--f8a944c69c28",
+      "shaderRecoveryArchive": "Shader_Recovery.zip"
+    }
+  },
+  {
+    "ownerId": "RenderPipelineResources--f6f5f6951c01",
+    "field": "ssrTemporalCompute",
+    "pointer": {
+      "m_FileID": 0,
+      "m_PathID": 47
+    },
+    "target": {
+      "sha256": "965f6d7a587981ca71e86e14ec761ee154593eb29b8cc38b9ec15fcfb2a8d966",
+      "class": "ComputeShader",
+      "pathID": 47,
+      "serializedFile": "globalgamemanagers.assets",
+      "name": "GITemporal",
+      "shaderRecoveryId": "GITemporal--965f6d7a5879",
+      "shaderRecoveryDirectory": "Shaders/GITemporal--965f6d7a5879",
+      "shaderRecoveryArchive": "Shader_Recovery.zip"
+    }
+  },
+  {
+    "ownerId": "RenderPipelineResources--f6f5f6951c01",
+    "field": "resolveColorShader",
+    "pointer": {
+      "m_FileID": 0,
+      "m_PathID": 35
+    },
+    "target": {
+      "sha256": "eb626fea8f9bdca175eb5a1b71903757746738f95790986f58a1882e7d953a49",
+      "class": "Shader",
+      "pathID": 35,
+      "serializedFile": "globalgamemanagers.assets",
+      "name": "",
+      "shaderRecoveryId": "Hidden_SadCatStudios_ResolveColor--eb626fea8f9b",
+      "shaderRecoveryDirectory": "Shaders/Hidden_SadCatStudios_ResolveColor--eb626fea8f9b",
+      "shaderRecoveryArchive": "Shader_Recovery.zip"
+    }
+  },
+  {
+    "ownerId": "RenderPipelineResources--f6f5f6951c01",
+    "field": "resolveDepthShader",
+    "pointer": {
+      "m_FileID": 0,
+      "m_PathID": 25
+    },
+    "target": {
+      "sha256": "05378050aad8a7ced3ab3e8493a5b2dff3af6436b9177fed196e0f9327bbc981",
+      "class": "Shader",
+      "pathID": 25,
+      "serializedFile": "globalgamemanagers.assets",
+      "name": "",
+      "shaderRecoveryId": "Hidden_SadCatStudios_ResolveDepth--05378050aad8",
+      "shaderRecoveryDirectory": "Shaders/Hidden_SadCatStudios_ResolveDepth--05378050aad8",
+      "shaderRecoveryArchive": "Shader_Recovery.zip"
+    }
+  },
+  {
+    "ownerId": "RenderPipelineResources--f6f5f6951c01",
+    "field": "downsampleMaxDepth4x4",
+    "pointer": {
+      "m_FileID": 0,
+      "m_PathID": 18
+    },
+    "target": {
+      "sha256": "23312cf5cf2a0d2da3456204e878964e915dc55b82eeb32cdc3edd5aae408687",
+      "class": "Shader",
+      "pathID": 18,
+      "serializedFile": "globalgamemanagers.assets",
+      "name": "",
+      "shaderRecoveryId": "Hidden_SadCatStudios_DeownsamplMaxDepth4x4--23312cf5cf2a",
+      "shaderRecoveryDirectory": "Shaders/Hidden_SadCatStudios_DeownsamplMaxDepth4x4--23312cf5cf2a",
+      "shaderRecoveryArchive": "Shader_Recovery.zip"
+    }
+  },
+  {
+    "ownerId": "RenderPipelineResources--f6f5f6951c01",
+    "field": "skyAndCloudsShader",
+    "pointer": {
+      "m_FileID": 0,
+      "m_PathID": 17
+    },
+    "target": {
+      "sha256": "fd2408adecbce592f0c453ebe32df06f353d790adae17bc92cf09a1ac66341fc",
+      "class": "Shader",
+      "pathID": 17,
+      "serializedFile": "globalgamemanagers.assets",
+      "name": "",
+      "shaderRecoveryId": "Hidden_SadCatStudios_SkyAndClouds--fd2408adecbc",
+      "shaderRecoveryDirectory": "Shaders/Hidden_SadCatStudios_SkyAndClouds--fd2408adecbc",
+      "shaderRecoveryArchive": "Shader_Recovery.zip"
+    }
+  },
+  {
+    "ownerId": "RenderPipelineResources--f6f5f6951c01",
+    "field": "upscaleSkyAndCloudsShader",
+    "pointer": {
+      "m_FileID": 0,
+      "m_PathID": 28
+    },
+    "target": {
+      "sha256": "ac18199da79eb55a6a4d5b592c07ccfef627ad4364ba4c07814d4d6d0fa01593",
+      "class": "Shader",
+      "pathID": 28,
+      "serializedFile": "globalgamemanagers.assets",
+      "name": "",
+      "shaderRecoveryId": "Hidden_SadCatStudios_UpscaleSkyAndClouds--ac18199da79e",
+      "shaderRecoveryDirectory": "Shaders/Hidden_SadCatStudios_UpscaleSkyAndClouds--ac18199da79e",
+      "shaderRecoveryArchive": "Shader_Recovery.zip"
+    }
+  },
+  {
+    "ownerId": "RenderPipelineResources--f6f5f6951c01",
+    "field": "texLowFrequencyCloudNoise",
+    "pointer": {
+      "m_FileID": 0,
+      "m_PathID": 5116
+    },
+    "target": {
+      "sha256": "333adf79b9adf5cb9cae843d1dc6b69e4ef427425bf6c2e85e0d36321bb9db2d",
+      "class": "Texture3D",
+      "pathID": 5116,
+      "serializedFile": "globalgamemanagers.assets",
+      "name": "LowFrequencyCloudNoise",
+      "directory": "ResourceObjects/LowFrequencyCloudNoise--333adf79b9ad",
+      "streamPayload": {
+        "file": "ResourceObjects/LowFrequencyCloudNoise--333adf79b9ad/streamed-payload.bin",
+        "bytes": 1198392,
+        "sha256": "5576e464c95122b70840b26fb97b97ee886123a8c647094d2119bf79b5706213"
+      }
+    }
+  },
+  {
+    "ownerId": "RenderPipelineResources--f6f5f6951c01",
+    "field": "texCloudDetailNoise",
+    "pointer": {
+      "m_FileID": 0,
+      "m_PathID": 5114
+    },
+    "target": {
+      "sha256": "29ae51463bb3ff037cc72d47d819782557f186647e87c20e45ccabacd868fd8e",
+      "class": "Texture3D",
+      "pathID": 5114,
+      "serializedFile": "globalgamemanagers.assets",
+      "name": "CloudDetailNoise",
+      "directory": "ResourceObjects/CloudDetailNoise--29ae51463bb3",
+      "streamPayload": {
+        "file": "ResourceObjects/CloudDetailNoise--29ae51463bb3/streamed-payload.bin",
+        "bytes": 18744,
+        "sha256": "4ac6618e09ccd4d0f8a30c62555e4c0dde3bcac4bbe397d41c2266ade5dae707"
+      }
+    }
+  },
+  {
+    "ownerId": "RenderPipelineResources--f6f5f6951c01",
+    "field": "generateMipmapsSceneColorCompute",
+    "pointer": {
+      "m_FileID": 0,
+      "m_PathID": 52
+    },
+    "target": {
+      "sha256": "57b4c3141ced094ce53035c0ae1d6ba9650c9685ecb6fd4da43e5fc6170b1279",
+      "class": "ComputeShader",
+      "pathID": 52,
+      "serializedFile": "globalgamemanagers.assets",
+      "name": "GenerateMipmapsSceneColor",
+      "shaderRecoveryId": "GenerateMipmapsSceneColor--57b4c3141ced",
+      "shaderRecoveryDirectory": "Shaders/GenerateMipmapsSceneColor--57b4c3141ced",
+      "shaderRecoveryArchive": "Shader_Recovery.zip"
+    }
+  },
+  {
+    "ownerId": "RenderPipelineResources--f6f5f6951c01",
+    "field": "colorGradingLutCompute",
+    "pointer": {
+      "m_FileID": 0,
+      "m_PathID": 45
+    },
+    "target": {
+      "sha256": "675b26e4b3ecd5168feb44270b49a0bd34ba6b35d2be8abb644f162c8953d7b3",
+      "class": "ComputeShader",
+      "pathID": 45,
+      "serializedFile": "globalgamemanagers.assets",
+      "name": "ColorGradingLut",
+      "shaderRecoveryId": "ColorGradingLut--675b26e4b3ec",
+      "shaderRecoveryDirectory": "Shaders/ColorGradingLut--675b26e4b3ec",
+      "shaderRecoveryArchive": "Shader_Recovery.zip"
+    }
+  },
+  {
+    "ownerId": "RenderPipelineResources--f6f5f6951c01",
+    "field": "taaCompute",
+    "pointer": {
+      "m_FileID": 0,
+      "m_PathID": 44
+    },
+    "target": {
+      "sha256": "cbc9901c5f00d1939e81f10745f1c27b3caebe62347177858c3ab17820b4e45d",
+      "class": "ComputeShader",
+      "pathID": 44,
+      "serializedFile": "globalgamemanagers.assets",
+      "name": "Taa",
+      "shaderRecoveryId": "Taa--cbc9901c5f00",
+      "shaderRecoveryDirectory": "Shaders/Taa--cbc9901c5f00",
+      "shaderRecoveryArchive": "Shader_Recovery.zip"
+    }
+  },
+  {
+    "ownerId": "RenderPipelineResources--f6f5f6951c01",
+    "field": "depthOfFieldComputeCocCompute",
+    "pointer": {
+      "m_FileID": 0,
+      "m_PathID": 41
+    },
+    "target": {
+      "sha256": "ae787fb0dacaa026fe0ad39683babcd968ea2c95d15788fab29f74fbe0cdffbb",
+      "class": "ComputeShader",
+      "pathID": 41,
+      "serializedFile": "globalgamemanagers.assets",
+      "name": "ComputeCoc",
+      "shaderRecoveryId": "ComputeCoc--ae787fb0daca",
+      "shaderRecoveryDirectory": "Shaders/ComputeCoc--ae787fb0daca",
+      "shaderRecoveryArchive": "Shader_Recovery.zip"
+    }
+  },
+  {
+    "ownerId": "RenderPipelineResources--f6f5f6951c01",
+    "field": "depthOfFieldCocStabilizationCompute",
+    "pointer": {
+      "m_FileID": 0,
+      "m_PathID": 59
+    },
+    "target": {
+      "sha256": "10d830420761b99f53abb4606a62239198dfd561a0a56e634047e8c25d4182d6",
+      "class": "ComputeShader",
+      "pathID": 59,
+      "serializedFile": "globalgamemanagers.assets",
+      "name": "CocStabilization",
+      "shaderRecoveryId": "CocStabilization--10d830420761",
+      "shaderRecoveryDirectory": "Shaders/CocStabilization--10d830420761",
+      "shaderRecoveryArchive": "Shader_Recovery.zip"
+    }
+  },
+  {
+    "ownerId": "RenderPipelineResources--f6f5f6951c01",
+    "field": "depthOfFieldRenderBokehShader",
+    "pointer": {
+      "m_FileID": 0,
+      "m_PathID": 31
+    },
+    "target": {
+      "sha256": "76aba941b8cb2192dd0befdf09db3ddbe643c29b7048f1f565c3035c15f3960b",
+      "class": "Shader",
+      "pathID": 31,
+      "serializedFile": "globalgamemanagers.assets",
+      "name": "",
+      "shaderRecoveryId": "Hidden_SadCatStudios_DepthOfFieldRenderBokeh--76aba941b8cb",
+      "shaderRecoveryDirectory": "Shaders/Hidden_SadCatStudios_DepthOfFieldRenderBokeh--76aba941b8cb",
+      "shaderRecoveryArchive": "Shader_Recovery.zip"
+    }
+  },
+  {
+    "ownerId": "RenderPipelineResources--f6f5f6951c01",
+    "field": "depthOfFieldBokehTaa",
+    "pointer": {
+      "m_FileID": 0,
+      "m_PathID": 46
+    },
+    "target": {
+      "sha256": "66332093489ce7b674171e8197975ded4ae025bafb998b40b0823a647e0ce5c6",
+      "class": "ComputeShader",
+      "pathID": 46,
+      "serializedFile": "globalgamemanagers.assets",
+      "name": "BokehTaa",
+      "shaderRecoveryId": "BokehTaa--66332093489c",
+      "shaderRecoveryDirectory": "Shaders/BokehTaa--66332093489c",
+      "shaderRecoveryArchive": "Shader_Recovery.zip"
+    }
+  },
+  {
+    "ownerId": "RenderPipelineResources--f6f5f6951c01",
+    "field": "depthOfFieldDofBlurV3Compute",
+    "pointer": {
+      "m_FileID": 0,
+      "m_PathID": 54
+    },
+    "target": {
+      "sha256": "a51dd9508d2e99a70e905e7c31a40f8dc75d2666cd9e19c5d924bfcb43d17bf1",
+      "class": "ComputeShader",
+      "pathID": 54,
+      "serializedFile": "globalgamemanagers.assets",
+      "name": "DofBlurV3",
+      "shaderRecoveryId": "DofBlurV3--a51dd9508d2e",
+      "shaderRecoveryDirectory": "Shaders/DofBlurV3--a51dd9508d2e",
+      "shaderRecoveryArchive": "Shader_Recovery.zip"
+    }
+  },
+  {
+    "ownerId": "RenderPipelineResources--f6f5f6951c01",
+    "field": "depthOfFieldComposeDofImageShader",
+    "pointer": {
+      "m_FileID": 0,
+      "m_PathID": 26
+    },
+    "target": {
+      "sha256": "8813f4c1587aa6b2d787bc28e9a891640aff4a893e35f310e56e1b02ebed033a",
+      "class": "Shader",
+      "pathID": 26,
+      "serializedFile": "globalgamemanagers.assets",
+      "name": "",
+      "shaderRecoveryId": "Hidden_SadCatStudios_ComposeDofImage--8813f4c1587a",
+      "shaderRecoveryDirectory": "Shaders/Hidden_SadCatStudios_ComposeDofImage--8813f4c1587a",
+      "shaderRecoveryArchive": "Shader_Recovery.zip"
+    }
+  },
+  {
+    "ownerId": "RenderPipelineResources--f6f5f6951c01",
+    "field": "depthOfFieldDebug",
+    "pointer": {
+      "m_FileID": 0,
+      "m_PathID": 30
+    },
+    "target": {
+      "sha256": "d13e344b47f71ce41d236de5676059b96ee579652c37ac79a492d10b4c894ff6",
+      "class": "Shader",
+      "pathID": 30,
+      "serializedFile": "globalgamemanagers.assets",
+      "name": "",
+      "shaderRecoveryId": "Hidden_SadCatStudios_DepthOfFieldDebug--d13e344b47f7",
+      "shaderRecoveryDirectory": "Shaders/Hidden_SadCatStudios_DepthOfFieldDebug--d13e344b47f7",
+      "shaderRecoveryArchive": "Shader_Recovery.zip"
+    }
+  },
+  {
+    "ownerId": "RenderPipelineResources--f6f5f6951c01",
+    "field": "bloomPrefilerCompute",
+    "pointer": {
+      "m_FileID": 0,
+      "m_PathID": 49
+    },
+    "target": {
+      "sha256": "78a621dc49ccf2efa71a0cc3a040362a2dc4f00ccb7159592a81bb88d21a8de1",
+      "class": "ComputeShader",
+      "pathID": 49,
+      "serializedFile": "globalgamemanagers.assets",
+      "name": "BloomPrefiler",
+      "shaderRecoveryId": "BloomPrefiler--78a621dc49cc",
+      "shaderRecoveryDirectory": "Shaders/BloomPrefiler--78a621dc49cc",
+      "shaderRecoveryArchive": "Shader_Recovery.zip"
+    }
+  },
+  {
+    "ownerId": "RenderPipelineResources--f6f5f6951c01",
+    "field": "bloomBlurCompute",
+    "pointer": {
+      "m_FileID": 0,
+      "m_PathID": 43
+    },
+    "target": {
+      "sha256": "ab1917fe23872407ab8be59e2e07b1c9a463a8a7b0b8e436f8751779c490c6ed",
+      "class": "ComputeShader",
+      "pathID": 43,
+      "serializedFile": "globalgamemanagers.assets",
+      "name": "BloomBlur",
+      "shaderRecoveryId": "BloomBlur--ab1917fe2387",
+      "shaderRecoveryDirectory": "Shaders/BloomBlur--ab1917fe2387",
+      "shaderRecoveryArchive": "Shader_Recovery.zip"
+    }
+  },
+  {
+    "ownerId": "RenderPipelineResources--f6f5f6951c01",
+    "field": "finalBlitShader",
+    "pointer": {
+      "m_FileID": 0,
+      "m_PathID": 33
+    },
+    "target": {
+      "sha256": "27862711136a636a5edd7bf0e82fc65c7085ca3efc6fecb655994ca655b4a781",
+      "class": "Shader",
+      "pathID": 33,
+      "serializedFile": "globalgamemanagers.assets",
+      "name": "",
+      "shaderRecoveryId": "Hidden_SadCatStudios_FinalBlit--27862711136a",
+      "shaderRecoveryDirectory": "Shaders/Hidden_SadCatStudios_FinalBlit--27862711136a",
+      "shaderRecoveryArchive": "Shader_Recovery.zip"
+    }
+  },
+  {
+    "ownerId": "RenderPipelineResources--f6f5f6951c01",
+    "field": "uiColorResolveCompute",
+    "pointer": {
+      "m_FileID": 0,
+      "m_PathID": 53
+    },
+    "target": {
+      "sha256": "e803fcf5d247b44aed5951a34de9f3da36feb84af36626ea59215de0e23e23d7",
+      "class": "ComputeShader",
+      "pathID": 53,
+      "serializedFile": "globalgamemanagers.assets",
+      "name": "ResolveColor",
+      "shaderRecoveryId": "ResolveColor--e803fcf5d247",
+      "shaderRecoveryDirectory": "Shaders/ResolveColor--e803fcf5d247",
+      "shaderRecoveryArchive": "Shader_Recovery.zip"
+    }
+  },
+  {
+    "ownerId": "RenderPipelineResources--f6f5f6951c01",
+    "field": "uiFinalShader",
+    "pointer": {
+      "m_FileID": 0,
+      "m_PathID": 34
+    },
+    "target": {
+      "sha256": "0347f3afcf776e1c1c3e6fc33c2fda93b16cb184e17a8c71c58b125954c5b26d",
+      "class": "Shader",
+      "pathID": 34,
+      "serializedFile": "globalgamemanagers.assets",
+      "name": "",
+      "shaderRecoveryId": "Hidden_SadCatStudios_UIFinalBlit--0347f3afcf77",
+      "shaderRecoveryDirectory": "Shaders/Hidden_SadCatStudios_UIFinalBlit--0347f3afcf77",
+      "shaderRecoveryArchive": "Shader_Recovery.zip"
+    }
+  },
+  {
+    "ownerId": "RenderPipelineResources--f6f5f6951c01",
+    "field": "singleColorShader",
+    "pointer": {
+      "m_FileID": 0,
+      "m_PathID": 22
+    },
+    "target": {
+      "sha256": "72523b2108fb137286b15a2c9ae6eaa92271eebd8c8f84ff4ff887e58a53e312",
+      "class": "Shader",
+      "pathID": 22,
+      "serializedFile": "globalgamemanagers.assets",
+      "name": "",
+      "shaderRecoveryId": "Hidden_SadCatStudios_SingleColor--72523b2108fb",
+      "shaderRecoveryDirectory": "Shaders/Hidden_SadCatStudios_SingleColor--72523b2108fb",
+      "shaderRecoveryArchive": "Shader_Recovery.zip"
+    }
+  },
+  {
+    "ownerId": "RenderPipelineResources--f6f5f6951c01",
+    "field": "presentShadowMapCascadesShader",
+    "pointer": {
+      "m_FileID": 0,
+      "m_PathID": 19
+    },
+    "target": {
+      "sha256": "c7338c8e13998a8bdb5cbb60310e19c82c568233e9b7c059f92369ba8a349ed5",
+      "class": "Shader",
+      "pathID": 19,
+      "serializedFile": "globalgamemanagers.assets",
+      "name": "",
+      "shaderRecoveryId": "Hidden_SadCatStudios_PresentShadowMapCascades--c7338c8e1399",
+      "shaderRecoveryDirectory": "Shaders/Hidden_SadCatStudios_PresentShadowMapCascades--c7338c8e1399",
+      "shaderRecoveryArchive": "Shader_Recovery.zip"
+    }
+  },
+  {
+    "ownerId": "RenderPipelineResources--f6f5f6951c01",
+    "field": "presentToCameraRTShader",
+    "pointer": {
+      "m_FileID": 0,
+      "m_PathID": 36
+    },
+    "target": {
+      "sha256": "84950d6099298bf9ba607d9ac98a5b976821197b4739d818788cbf3460eee673",
+      "class": "Shader",
+      "pathID": 36,
+      "serializedFile": "globalgamemanagers.assets",
+      "name": "",
+      "shaderRecoveryId": "Hidden_SadCatStudios_PresentShader--84950d609929",
+      "shaderRecoveryDirectory": "Shaders/Hidden_SadCatStudios_PresentShader--84950d609929",
+      "shaderRecoveryArchive": "Shader_Recovery.zip"
+    }
+  },
+  {
+    "ownerId": "RenderPipelineResources--f6f5f6951c01",
+    "field": "decalShader",
+    "pointer": {
+      "m_FileID": 0,
+      "m_PathID": 20
+    },
+    "target": {
+      "sha256": "d3c29b6b0140e78168b4854082094ea422cb98e7bfbc396ad6ac9041989215ed",
+      "class": "Shader",
+      "pathID": 20,
+      "serializedFile": "globalgamemanagers.assets",
+      "name": "",
+      "shaderRecoveryId": "SadCatStudios_DecalV1--d3c29b6b0140",
+      "shaderRecoveryDirectory": "Shaders/SadCatStudios_DecalV1--d3c29b6b0140",
+      "shaderRecoveryArchive": "Shader_Recovery.zip"
+    }
+  },
+  {
+    "ownerId": "RenderPipelineResources--f6f5f6951c01",
+    "field": "maskDecalShader",
+    "pointer": {
+      "m_FileID": 0,
+      "m_PathID": 27
+    },
+    "target": {
+      "sha256": "27d7acaa44cbe60cc2c006043e478ae3a711a131e8744ba8658c3d6a26c5dc7f",
+      "class": "Shader",
+      "pathID": 27,
+      "serializedFile": "globalgamemanagers.assets",
+      "name": "",
+      "shaderRecoveryId": "Hidden_SadCatStudios_MaskDecalV1--27d7acaa44cb",
+      "shaderRecoveryDirectory": "Shaders/Hidden_SadCatStudios_MaskDecalV1--27d7acaa44cb",
+      "shaderRecoveryArchive": "Shader_Recovery.zip"
+    }
+  },
+  {
+    "ownerId": "RenderPipelineResources--f6f5f6951c01",
+    "field": "pixelizationBlitShader",
+    "pointer": {
+      "m_FileID": 0,
+      "m_PathID": 32
+    },
+    "target": {
+      "sha256": "573098ca6c77940fa7edba502cfcde893b088c208f24de146138a41c432589aa",
+      "class": "Shader",
+      "pathID": 32,
+      "serializedFile": "globalgamemanagers.assets",
+      "name": "",
+      "shaderRecoveryId": "Hidden_SadCatStudios_PixelizationBlit--573098ca6c77",
+      "shaderRecoveryDirectory": "Shaders/Hidden_SadCatStudios_PixelizationBlit--573098ca6c77",
+      "shaderRecoveryArchive": "Shader_Recovery.zip"
+    }
+  },
+  {
+    "ownerId": "RenderPipelineResources--f6f5f6951c01",
+    "field": "lineRenderingShader",
+    "pointer": {
+      "m_FileID": 0,
+      "m_PathID": 16
+    },
+    "target": {
+      "sha256": "e765368047f24f99427e4dc646384ae8be5ef99b3802eb56aa1e8b0405c383ab",
+      "class": "Shader",
+      "pathID": 16,
+      "serializedFile": "globalgamemanagers.assets",
+      "name": "",
+      "shaderRecoveryId": "Hidden_SadCatStudios_LineRendering--e765368047f2",
+      "shaderRecoveryDirectory": "Shaders/Hidden_SadCatStudios_LineRendering--e765368047f2",
+      "shaderRecoveryArchive": "Shader_Recovery.zip"
+    }
+  },
+  {
+    "ownerId": "RenderPipelineResources--f6f5f6951c01",
+    "field": "gaussianBlurDevdbg",
+    "pointer": {
+      "m_FileID": 0,
+      "m_PathID": 63
+    },
+    "target": {
+      "sha256": "7e6094251591c252d284d3db67387fc7239889fcffa8530c7b23381aa2538966",
+      "class": "ComputeShader",
+      "pathID": 63,
+      "serializedFile": "globalgamemanagers.assets",
+      "name": "GaussianBlurDevdbg",
+      "shaderRecoveryId": "GaussianBlurDevdbg--7e6094251591",
+      "shaderRecoveryDirectory": "Shaders/GaussianBlurDevdbg--7e6094251591",
+      "shaderRecoveryArchive": "Shader_Recovery.zip"
+    }
+  },
+  {
+    "ownerId": "RenderPipelineResources--f6f5f6951c01",
+    "field": "previewCameraFinalBlitShader",
+    "pointer": {
+      "m_FileID": 0,
+      "m_PathID": 21
+    },
+    "target": {
+      "sha256": "10fc921b943fb439392910f580f64de93cf476f88c172c673cc7f5cc947a2bf5",
+      "class": "Shader",
+      "pathID": 21,
+      "serializedFile": "globalgamemanagers.assets",
+      "name": "",
+      "shaderRecoveryId": "Hidden_SadCatStudios_FinalBlitPreviewCamera--10fc921b943f",
+      "shaderRecoveryDirectory": "Shaders/Hidden_SadCatStudios_FinalBlitPreviewCamera--10fc921b943f",
+      "shaderRecoveryArchive": "Shader_Recovery.zip"
+    }
+  }
+]

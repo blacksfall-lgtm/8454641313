@@ -1,0 +1,183 @@
+id,name,class,variantEntries,dxbc,dxbcHlsl,dxbcRecompiled,spirv,spirvHlsl,spirvRecompiled,originalGlsl,spirvSM5Recompiled
+Standard--6abfb253d8c0,Standard,Shader,111,56,56,56,55,55,55,0,55
+Particles_Standard_Surface--035d76ef5ac4,Particles/Standard Surface,Shader,312,75,75,75,60,60,60,0,60
+Skybox_Procedural--116b68434fb4,Skybox/Procedural,Shader,9,6,6,6,6,6,6,0,6
+Legacy_Shaders_Particles_Additive--bfa25188d1f5,Legacy Shaders/Particles/Additive,Shader,6,4,4,4,4,4,4,0,4
+Particles_Standard_Unlit--d024cd7536e5,Particles/Standard Unlit,Shader,44,24,24,24,16,16,16,0,16
+Mobile_Particles_Alpha_Blended--49acf0f10a6e,Mobile/Particles/Alpha Blended,Shader,3,2,2,2,2,2,2,0,2
+Legacy_Shaders_VertexLit--43c76554f062,Legacy Shaders/VertexLit,Shader,18,9,9,9,9,9,9,0,9
+Legacy_Shaders_Particles_Alpha_Blended_Premultiply--29395f2acf1f,Legacy Shaders/Particles/Alpha Blended Premultiply,Shader,6,4,4,4,4,4,4,0,4
+Sprites_Default--a4cef693d3bc,Sprites/Default,Shader,12,4,4,4,6,6,6,0,6
+TextMeshPro_Distance_Field--11065e4430b4,TextMeshPro/Distance Field,Shader,24,10,10,10,12,12,12,0,12
+TextMeshPro_Mobile_Distance_Field--6c7ef5f234c0,TextMeshPro/Mobile/Distance Field,Shader,24,10,10,10,12,12,12,0,12
+SadCatStudios_VFX_Arcade_CRT--015737c372da,SadCatStudios/VFX/Arcade_CRT,Shader,3,2,2,2,2,2,2,0,2
+SadCatStudios_ParticlesUnlitV1--99f54b427540,SadCatStudios/ParticlesUnlitV1,Shader,103,37,37,37,39,39,39,0,39
+SadCatStudios_ProBuilderLitV1--d3a555a960fe,SadCatStudios/ProBuilderLitV1,Shader,13,7,7,6,9,9,8,0,9
+SadCatStudios_LitV1--acd0d3d92cb2,SadCatStudios/LitV1,Shader,45,16,16,12,19,19,15,0,19
+SadCatStudios_PixelizationLitV1--daddf903bcc7,SadCatStudios/PixelizationLitV1,Shader,9,6,6,5,5,5,4,0,5
+SadCatStudios_VFX_Color_Sprite_Alpha_Test--c57150ea0720,SadCatStudios/VFX/Color_Sprite_Alpha_Test,Shader,9,4,4,4,5,5,5,0,5
+SadCatStudios_VFX_Distortion_trail_Unlit--b4543b863158,SadCatStudios/VFX/Distortion_trail_Unlit,Shader,6,2,2,2,3,3,3,0,3
+SadCatStudios_VFX_Trail_Vertex_Unlit--14c71446cf34,SadCatStudios/VFX/Trail_Vertex_Unlit,Shader,6,2,2,2,3,3,3,0,3
+SadCatStudios_VFX_Color_Sprite_transp--cff4fd365dbd,SadCatStudios/VFX/Color_Sprite_transp,Shader,6,2,2,2,3,3,3,0,3
+SadCatStudios_LitV1--915e659f25ba,SadCatStudios/LitV1,Shader,228,61,61,35,50,50,38,0,50
+SadCatStudios_VFX_Simple_Noise--0d3b81846542,SadCatStudios/VFX/Simple_Noise,Shader,9,4,4,4,5,5,5,0,5
+SadCatStudios_DecalV1--474b94b9ef20,SadCatStudios/DecalV1,Shader,18,7,7,7,7,7,7,0,7
+SadCatStudios_VFX_Wind--59819092e801,SadCatStudios/VFX/Wind,Shader,6,3,3,2,4,4,3,0,4
+SadCatStudios_VFX_puddle_new--9561a4a995ca,SadCatStudios/VFX/puddle_new,Shader,9,6,6,5,5,5,4,0,5
+SadCatStudios_FakeFogV1--7f454cc6f7d5,SadCatStudios/FakeFogV1,Shader,6,4,4,4,4,4,4,0,4
+SadCatStudios_VFX_universal_shdr_lit--8007fc80ea68,SadCatStudios/VFX/universal_shdr_lit,Shader,6,3,3,2,4,4,3,0,4
+SadCatStudios_VFX_puddle_new_with_ripples--b615938442fb,SadCatStudios/VFX/puddle_new_with_ripples,Shader,9,6,6,5,5,5,4,0,5
+SadCatStudios_ParticlesLitV1--4da97b8fd82a,SadCatStudios/ParticlesLitV1,Shader,103,40,40,29,48,48,37,0,48
+SadCatStudios_VFX_Falling_rain--d21fe420e7fd,SadCatStudios/VFX/Falling_rain,Shader,6,3,3,2,4,4,3,0,4
+SadCatStudios_VFX_puddle_new_with_ripples2--428112d28405,SadCatStudios/VFX/puddle_new_with_ripples2,Shader,12,7,7,6,7,7,6,0,7
+SadCatStudios_VFX_puddle_quad_ripples--bc8f3de8d727,SadCatStudios/VFX/puddle_quad_ripples,Shader,9,5,5,4,6,6,5,0,6
+ProBuilder6_Standard_Vertex_Color--b2eae1953ad3,ProBuilder6/Standard Vertex Color,Shader,0,0,0,0,0,0,0,0,0
+Hidden_Shader_Graph_FallbackError--a2e83731781e,Hidden/Shader Graph/FallbackError,Shader,3,2,2,2,2,2,2,0,2
+Hidden_BOXOPHOBIC_The_Vegetation_Engine_Fresnel--deb8c888a7a1,Hidden/BOXOPHOBIC/The Vegetation Engine/Fresnel,Shader,3,2,2,2,2,2,2,0,2
+BOXOPHOBIC_The_Vegetation_Engine_Vegetation_Bark_Standard_Lit--da89d11c62b5,BOXOPHOBIC/The Vegetation Engine/Vegetation/Bark Standard Lit,Shader,28,14,14,12,14,14,11,0,14
+BOXOPHOBIC_The_Vegetation_Engine_Vegetation_Grass_Standard_Lit--3b4939213798,BOXOPHOBIC/The Vegetation Engine/Vegetation/Grass Standard Lit,Shader,14,7,7,6,9,9,6,0,9
+BOXOPHOBIC_The_Vegetation_Engine_Vegetation_Cross_Subsurface_Lit--79e071cecf95,BOXOPHOBIC/The Vegetation Engine/Vegetation/Cross Subsurface Lit,Shader,14,7,7,6,9,9,6,0,9
+BOXOPHOBIC_The_Vegetation_Engine_Vegetation_Cross_Standard_Lit--fd881dfa55a8,BOXOPHOBIC/The Vegetation Engine/Vegetation/Cross Standard Lit,Shader,14,7,7,6,9,9,6,0,9
+BOXOPHOBIC_The_Vegetation_Engine_Vegetation_Leaf_Standard_Lit--f9c8f5405b53,BOXOPHOBIC/The Vegetation Engine/Vegetation/Leaf Standard Lit,Shader,56,22,22,18,22,22,16,0,22
+BOXOPHOBIC_The_Vegetation_Engine_Elements_Default_Motion_Interaction--49c604acffb6,BOXOPHOBIC/The Vegetation Engine/Elements/Default/Motion Interaction,Shader,3,2,2,2,2,2,2,0,2
+BOXOPHOBIC_The_Vegetation_Engine_Vegetation_Grass_Subsurface_Lit--f1e0c7c8e982,BOXOPHOBIC/The Vegetation Engine/Vegetation/Grass Subsurface Lit,Shader,56,23,23,19,22,22,16,0,22
+BOXOPHOBIC_The_Vegetation_Engine_Vegetation_Leaf_Subsurface_Lit--ba4e2398fb06,BOXOPHOBIC/The Vegetation Engine/Vegetation/Leaf Subsurface Lit,Shader,56,22,22,18,22,22,16,0,22
+BOXOPHOBIC_The_Vegetation_Engine_Objects_Prop_Standard_Lit--15b95da61139,BOXOPHOBIC/The Vegetation Engine/Objects/Prop Standard Lit,Shader,14,7,7,6,9,9,8,0,9
+BOXOPHOBIC_The_Vegetation_Engine_Elements_Default_Motion_Wind_Power--d511be9d94a0,BOXOPHOBIC/The Vegetation Engine/Elements/Default/Motion Wind Power,Shader,3,2,2,2,2,2,2,0,2
+SadCatStudios_VFX_ElectricSurface--05a520f6d41b,SadCatStudios/VFX/ElectricSurface,Shader,6,3,3,2,4,4,3,0,4
+SadCatStudios_LitV1--593e5425de78,SadCatStudios/LitV1,Shader,242,66,66,38,53,53,40,0,53
+SadCatStudios_VFX_LampEmission--27d2a5598d65,SadCatStudios/VFX/LampEmission,Shader,12,7,7,6,7,7,6,0,7
+SadCatStudios_VFX_UniversalUnlit--2f097f8fba45,SadCatStudios/VFX/UniversalUnlit,Shader,6,2,2,2,3,3,3,0,3
+SadCatStudios_VFX_LaserAim--6f75d63e6680,SadCatStudios/VFX/LaserAim,Shader,6,3,3,3,4,4,4,0,4
+SadCatStudios_ParticlesUnlitV1--9b7853fcf19d,SadCatStudios/ParticlesUnlitV1,Shader,283,99,99,99,99,99,99,0,99
+SadCatStudios_ParticlesLitV1--8e31294c9df0,SadCatStudios/ParticlesLitV1,Shader,221,68,68,43,76,76,51,0,76
+SadCatStudios_VFX_Fire_Particle_second--65a612fd9e64,SadCatStudios/VFX/Fire_Particle_second,Shader,6,2,2,2,3,3,3,0,3
+Hidden_SadCatStudios_LineRendering--e765368047f2,Hidden/SadCatStudios/LineRendering,Shader,0,0,0,0,0,0,0,0,0
+Hidden_SadCatStudios_SkyAndClouds--fd2408adecbc,Hidden/SadCatStudios/SkyAndClouds,Shader,3,2,2,2,2,2,2,0,2
+Hidden_SadCatStudios_DeownsamplMaxDepth4x4--23312cf5cf2a,Hidden/SadCatStudios/DeownsamplMaxDepth4x4,Shader,3,2,2,2,2,2,2,0,2
+Hidden_SadCatStudios_PresentShadowMapCascades--c7338c8e1399,Hidden/SadCatStudios/PresentShadowMapCascades,Shader,3,2,2,2,2,2,2,0,2
+SadCatStudios_DecalV1--d3c29b6b0140,SadCatStudios/DecalV1,Shader,12,5,5,5,5,5,5,0,5
+Hidden_SadCatStudios_FinalBlitPreviewCamera--10fc921b943f,Hidden/SadCatStudios/FinalBlitPreviewCamera,Shader,3,2,2,2,2,2,2,0,2
+Hidden_SadCatStudios_SingleColor--72523b2108fb,Hidden/SadCatStudios/SingleColor,Shader,3,2,2,2,2,2,2,0,2
+Hidden_SadCatStudios_CopyDepth--c8d31e8fa385,Hidden/SadCatStudios/CopyDepth,Shader,5,3,3,3,3,3,3,0,3
+Hidden_SadCatStudios_ClusteredLightListHeatmap--37a57de049a9,Hidden/SadCatStudios/ClusteredLightListHeatmap,Shader,3,2,2,1,2,2,2,0,2
+Hidden_SadCatStudios_ResolveDepth--05378050aad8,Hidden/SadCatStudios/ResolveDepth,Shader,5,3,3,3,3,3,3,0,3
+Hidden_SadCatStudios_ComposeDofImage--8813f4c1587a,Hidden/SadCatStudios/ComposeDofImage,Shader,3,2,2,2,2,2,2,0,2
+Hidden_SadCatStudios_MaskDecalV1--27d7acaa44cb,Hidden/SadCatStudios/MaskDecalV1,Shader,5,3,3,3,4,4,4,0,4
+Hidden_SadCatStudios_UpscaleSkyAndClouds--ac18199da79e,Hidden/SadCatStudios/UpscaleSkyAndClouds,Shader,3,2,2,2,2,2,2,0,2
+Hidden_SadCatStudios_DepthOfFieldDebug--d13e344b47f7,Hidden/SadCatStudios/DepthOfFieldDebug,Shader,3,2,2,2,2,2,2,0,2
+Hidden_SadCatStudios_DepthOfFieldRenderBokeh--76aba941b8cb,Hidden/SadCatStudios/DepthOfFieldRenderBokeh,Shader,12,6,6,6,7,7,7,0,7
+Hidden_SadCatStudios_PixelizationBlit--573098ca6c77,Hidden/SadCatStudios/PixelizationBlit,Shader,5,3,3,3,3,3,3,0,3
+Hidden_SadCatStudios_FinalBlit--27862711136a,Hidden/SadCatStudios/FinalBlit,Shader,5,3,3,3,3,3,3,0,3
+Hidden_SadCatStudios_UIFinalBlit--0347f3afcf77,Hidden/SadCatStudios/UIFinalBlit,Shader,6,3,3,3,3,3,3,0,3
+Hidden_SadCatStudios_ResolveColor--eb626fea8f9b,Hidden/SadCatStudios/ResolveColor,Shader,5,3,3,3,3,3,3,0,3
+Hidden_SadCatStudios_PresentShader--84950d609929,Hidden/SadCatStudios/PresentShader,Shader,10,5,5,5,5,5,5,0,5
+SadCatStudios_LitV1--d09ec3fd1827,SadCatStudios/LitV1,Shader,13,7,7,6,9,9,8,0,9
+SadCatStudios_ParticlesUnlitV1--7ef0147ef802,SadCatStudios/ParticlesUnlitV1,Shader,27,11,11,11,12,12,12,0,12
+Hidden_SadCatStudios_IntegrateLd--89f3be3473ab,Hidden/SadCatStudios/IntegrateLd,Shader,9,6,6,6,4,4,4,0,4
+SsdoFilter--d3fd67264a74,SsdoFilter,ComputeShader,3,1,1,0,1,1,1,0,1
+ComputeCoc--ae787fb0daca,ComputeCoc,ComputeShader,3,1,1,0,1,1,1,0,1
+SsrResolve--c6b42ebfa3fa,SsrResolve,ComputeShader,3,1,1,0,1,1,1,0,1
+BloomBlur--ab1917fe2387,BloomBlur,ComputeShader,12,4,4,0,4,4,4,0,4
+Taa--cbc9901c5f00,Taa,ComputeShader,3,1,1,0,1,1,1,0,1
+ColorGradingLut--675b26e4b3ec,ColorGradingLut,ComputeShader,6,2,2,0,2,2,2,0,2
+BokehTaa--66332093489c,BokehTaa,ComputeShader,3,1,1,0,1,1,1,0,1
+GITemporal--965f6d7a5879,GITemporal,ComputeShader,3,1,1,0,1,1,1,0,1
+DownsampleSceneData--67524265d3f6,DownsampleSceneData,ComputeShader,3,1,1,0,1,1,1,0,1
+BloomPrefiler--78a621dc49cc,BloomPrefiler,ComputeShader,6,2,2,0,2,2,2,0,2
+GenerateHIZ--acbc2b084bd9,GenerateHIZ,ComputeShader,3,1,1,0,1,1,1,0,1
+RadianceSourceGeneration--62a4815120d0,RadianceSourceGeneration,ComputeShader,3,1,1,0,1,1,1,0,1
+GenerateMipmapsSceneColor--57b4c3141ced,GenerateMipmapsSceneColor,ComputeShader,3,1,1,0,1,1,1,0,1
+ResolveColor--e803fcf5d247,ResolveColor,ComputeShader,9,3,3,0,3,3,3,0,3
+DofBlurV3--a51dd9508d2e,DofBlurV3,ComputeShader,9,3,3,0,3,3,3,0,3
+SsrFilter--f8a944c69c28,SsrFilter,ComputeShader,6,2,2,0,2,2,2,0,2
+RadianceSourceFiltering--3b9963c6cad5,RadianceSourceFiltering,ComputeShader,6,2,2,0,2,2,2,0,2
+GenerateDensityBufferLit--bf8ab20cbbab,GenerateDensityBufferLit,ComputeShader,6,2,2,0,2,2,0,0,2
+IntegrateDfgLut--1772e83721c7,IntegrateDfgLut,ComputeShader,3,1,1,0,1,1,1,0,1
+CocStabilization--10d830420761,CocStabilization,ComputeShader,9,3,3,0,3,3,3,0,3
+CameraScatteredLightIntegration--72201d0a6b1f,CameraScatteredLightIntegration,ComputeShader,3,1,1,0,1,1,1,0,1
+SsdoEstimate--f98f83c22ff5,SsdoEstimate,ComputeShader,3,1,1,0,1,1,1,0,1
+ClusteredLightListBuild--f21fd5d793b9,ClusteredLightListBuild,ComputeShader,6,2,2,0,2,2,2,0,2
+GaussianBlurDevdbg--7e6094251591,GaussianBlurDevdbg,ComputeShader,6,2,2,0,2,2,2,0,2
+SsrTrace--ea0ed0b02f9b,SsrTrace,ComputeShader,3,1,0,0,1,1,1,0,1
+Legacy_Shaders_Particles_Alpha_Blended--d715517e0af5,Legacy Shaders/Particles/Alpha Blended,Shader,6,4,4,4,4,4,4,0,4
+Unlit_Texture--a1f9c7259fda,Unlit/Texture,Shader,3,2,2,2,2,2,2,0,2
+Hidden_TrueShadow_Generate--abdabd1ab2d5,Hidden/TrueShadow/Generate,Shader,7,4,4,4,5,5,5,0,5
+TextMeshPro_Bitmap--ecef680660b4,TextMeshPro/Bitmap,Shader,12,5,5,5,6,6,6,0,6
+TextMeshPro_Mobile_Bitmap--ba52155bff18,TextMeshPro/Mobile/Bitmap,Shader,15,7,7,7,8,8,8,0,8
+TextMeshPro_Distance_Field__Surface_--f770f4913dae,TextMeshPro/Distance Field (Surface),Shader,58,30,30,26,29,29,29,0,29
+TextMeshPro_Bitmap_Custom_Atlas--57cf66df8956,TextMeshPro/Bitmap Custom Atlas,Shader,12,5,5,5,6,6,6,0,6
+Hidden_TrueShadow_ImprintPostProcess--a637a1f840fe,Hidden/TrueShadow/ImprintPostProcess,Shader,12,5,5,5,5,5,5,0,5
+Hidden_TrueShadow_PostProcess--0cbda2c5504b,Hidden/TrueShadow/PostProcess,Shader,3,2,2,2,2,2,2,0,2
+UI_TrueShadow-Additive--ad2f5eeba09f,UI/TrueShadow-Additive,Shader,12,5,5,5,6,6,6,0,6
+Hidden_TrueShadow_Cutout--e4967f83bebd,Hidden/TrueShadow/Cutout,Shader,3,2,2,2,2,2,2,0,2
+UI_TrueShadow-Multiply--39845587f17c,UI/TrueShadow-Multiply,Shader,12,5,5,5,6,6,6,0,6
+TextMeshPro_Mobile_Distance_Field__Surface_--d1e9f0fd09f7,TextMeshPro/Mobile/Distance Field (Surface),Shader,14,6,6,5,6,6,6,0,6
+BOXOPHOBIC_The_Vegetation_Engine_Elements_Default_Colors_Default--a50d77f4794d,BOXOPHOBIC/The Vegetation Engine/Elements/Default/Colors Default,Shader,3,2,2,2,2,2,2,0,2
+ProBuilder6_Standard_Vertex_Color--0269db2592c9,ProBuilder6/Standard Vertex Color,Shader,0,0,0,0,0,0,0,0,0
+Hidden_ProBuilder_EdgePicker--88dbb861dc8b,Hidden/ProBuilder/EdgePicker,Shader,3,2,2,2,2,2,2,0,2
+TextMeshPro_Mobile_Distance_Field_Overlay--a830d3217523,TextMeshPro/Mobile/Distance Field Overlay,Shader,12,5,5,5,6,6,6,0,6
+TextMeshPro_Mobile_Distance_Field_-_Masking--477f01ddf322,TextMeshPro/Mobile/Distance Field - Masking,Shader,12,3,3,3,3,3,3,0,3
+Hidden_ProBuilder_VertexPicker--3b33f7a8d6f0,Hidden/ProBuilder/VertexPicker,Shader,3,2,2,2,2,2,2,0,2
+Hidden_ProBuilder_FacePicker--503b37fd33f0,Hidden/ProBuilder/FacePicker,Shader,3,2,2,2,2,2,2,0,2
+TextMeshPro_Sprite--6d4292639c1f,TextMeshPro/Sprite,Shader,12,5,5,5,6,6,6,0,6
+Hidden_ProBuilder_HideVertices--0b8602fdb1e5,Hidden/ProBuilder/HideVertices,Shader,3,2,2,2,2,2,2,0,2
+UI_TrueShadow-Normal--332f36c9eba4,UI/TrueShadow-Normal,Shader,12,5,5,5,6,6,6,0,6
+TextMeshPro_Distance_Field_Overlay--0a5153ddda4b,TextMeshPro/Distance Field Overlay,Shader,12,5,5,5,6,6,6,0,6
+TextMeshPro_Fixed_Distance_Field_Overlay--5aece43a3a98,TextMeshPro Fixed/Distance Field Overlay,Shader,24,10,10,10,12,12,12,0,12
+UI_TrueShadow-Screen--4f8d3143c0eb,UI/TrueShadow-Screen,Shader,3,2,2,2,2,2,2,0,2
+TextMeshPro_Distance_Field__Surface_--0ea78f887854,TextMeshPro/Distance Field (Surface),Shader,29,15,15,9,15,15,15,0,15
+TextMeshPro_Fixed_Distance_Field--76aaca6a9d4e,TextMeshPro Fixed/Distance Field,Shader,20,6,6,6,7,7,7,0,7
+TextMeshPro_Distance_Field--5f5ad8176f52,TextMeshPro/Distance Field,Shader,24,10,10,10,12,12,12,0,12
+TextMeshPro_Mobile_Distance_Field--b180b7bbc0a5,TextMeshPro/Mobile/Distance Field,Shader,48,18,18,18,24,24,24,0,24
+SadCatStudios_VFX_CRT_Alpha_Emis--73cb6a1ec8bc,SadCatStudios/VFX/CRT_Alpha_Emis,Shader,3,2,2,2,2,2,2,0,2
+SadCatStudios_UnlitV1--18e9edba8f30,SadCatStudios/UnlitV1,Shader,12,7,7,7,8,8,8,0,8
+Hidden_InternalErrorShader--7bcf648dbe00,Hidden/InternalErrorShader,Shader,24,11,11,11,11,10,10,0,10
+Hidden_InternalClear--1df7f7992277,Hidden/InternalClear,Shader,12,5,5,5,5,4,4,0,4
+Hidden_Internal-Colored--d7fd7de1dce3,Hidden/Internal-Colored,Shader,12,5,5,5,5,4,4,0,4
+Hidden_Internal-Loading--4bf294b355ad,Hidden/Internal-Loading,Shader,12,5,5,5,5,4,4,0,4
+Internal-Skinning--398e0e538fbf,Internal-Skinning,ComputeShader,200,40,40,0,40,40,40,80,40
+Internal-BlendShape--8ae6bc162436,Internal-BlendShape,ComputeShader,45,9,9,0,9,9,9,18,9
+Internal-VT-TranslationTableReplace--679377e434b3,Internal-VT-TranslationTableReplace,ComputeShader,5,1,1,0,1,1,1,2,1
+Internal-VT-TranslationTableUpsample--95156483e604,Internal-VT-TranslationTableUpsample,ComputeShader,64,16,16,0,16,16,16,16,16
+Internal-CreateFoveatedShadingRateTextureArray--6ea1755d0ada,Internal-CreateFoveatedShadingRateTextureArray,ComputeShader,1,0,0,0,1,1,1,0,1
+Internal-CreateFoveatedShadingRateTextureNoArray--3a81433a84a2,Internal-CreateFoveatedShadingRateTextureNoArray,ComputeShader,3,1,1,0,1,1,1,0,1
+Internal-YFlipFoveatedShadingTexture--c00e9bc942e0,Internal-YFlipFoveatedShadingTexture,ComputeShader,12,4,4,0,4,4,4,0,4
+GUI_Text_Shader--149b463aa43b,GUI/Text Shader,Shader,12,5,5,5,5,4,4,0,4
+Hidden_FrameDebuggerRenderTargetDisplay--cd7e0321d320,Hidden/FrameDebuggerRenderTargetDisplay,Shader,21,11,8,8,11,11,11,0,11
+Hidden_Internal-StencilWrite--cbb6af778d36,Hidden/Internal-StencilWrite,Shader,3,2,2,2,2,2,2,0,2
+Hidden_Internal-DepthNormalsTexture--8bb06a36717c,Hidden/Internal-DepthNormalsTexture,Shader,27,17,17,17,16,16,16,0,16
+Hidden_Internal-ScreenSpaceShadows--b0f844c53285,Hidden/Internal-ScreenSpaceShadows,Shader,36,13,13,13,13,13,13,0,13
+Hidden_Internal-CombineDepthNormals--20c3c45a0aca,Hidden/Internal-CombineDepthNormals,Shader,3,2,2,2,2,2,2,0,2
+Hidden_BlitCopy--3c011af0cac1,Hidden/BlitCopy,Shader,3,2,2,2,2,2,2,0,2
+Hidden_BlitCopyDepth--1b70fd7bd99f,Hidden/BlitCopyDepth,Shader,3,2,2,2,2,2,2,0,2
+Hidden_ConvertTexture--831e03417b8c,Hidden/ConvertTexture,Shader,3,2,2,2,2,2,2,0,2
+Hidden_Internal-DeferredShading--990df34fd40d,Hidden/Internal-DeferredShading,Shader,81,29,29,29,29,29,29,0,29
+Hidden_Internal-DeferredReflections--187446cc4e8d,Hidden/Internal-DeferredReflections,Shader,9,5,5,5,5,5,5,0,5
+Hidden_Internal-MotionVectors--5e3fb467ea41,Hidden/Internal-MotionVectors,Shader,8,5,5,5,5,5,5,0,5
+Hidden_Internal-Flare--6d180802dc73,Hidden/Internal-Flare,Shader,3,2,2,2,2,2,2,0,2
+Hidden_Internal-Halo--5c6864754607,Hidden/Internal-Halo,Shader,3,2,2,2,2,2,2,0,2
+Hidden_BlitCopyWithDepth--67266d353cc8,Hidden/BlitCopyWithDepth,Shader,3,2,2,2,2,2,2,0,2
+Hidden_BlitToDepth--7d39a01183b3,Hidden/BlitToDepth,Shader,3,2,2,2,2,2,2,0,2
+Hidden_BlitToDepth_MSAA--21a7cc7e655b,Hidden/BlitToDepth_MSAA,Shader,3,2,1,1,2,2,2,0,2
+Hidden_BlitCopyHDRTonemap--f189aac12c06,Hidden/BlitCopyHDRTonemap,Shader,3,2,2,2,2,2,2,0,2
+Hidden_Internal-DebugPattern--49d783e3b03f,Hidden/Internal-DebugPattern,Shader,7,4,4,4,4,4,4,0,4
+Hidden_Internal-GUITextureClip--f756feed6976,Hidden/Internal-GUITextureClip,Shader,3,2,2,2,2,2,2,0,2
+Hidden_Internal-GUITextureClipText--d5f5818e03e5,Hidden/Internal-GUITextureClipText,Shader,3,2,2,2,2,2,2,0,2
+Hidden_Internal-GUITexture--822172eeadf6,Hidden/Internal-GUITexture,Shader,3,2,2,2,2,2,2,0,2
+Hidden_Internal-GUITextureBlit--9fc400b92da4,Hidden/Internal-GUITextureBlit,Shader,3,2,2,2,2,2,2,0,2
+Hidden_Internal-GUIRoundedRect--61c0c43629d5,Hidden/Internal-GUIRoundedRect,Shader,3,2,2,2,2,2,2,0,2
+Hidden_Internal-GUIRoundedRectWithColorPerBorder--58eed09829cf,Hidden/Internal-GUIRoundedRectWithColorPerBorder,Shader,3,2,2,2,2,2,2,0,2
+Hidden_Internal-UIRDefault--759ec4f59bf0,Hidden/Internal-UIRDefault,Shader,6,4,0,0,4,4,4,0,4
+Hidden_Internal-UIRAtlasBlitCopy--1c069da538a6,Hidden/Internal-UIRAtlasBlitCopy,Shader,3,2,2,2,2,2,2,0,2
+Hidden_Internal-UIRDefaultWorld--47903ddd312e,Hidden/Internal-UIRDefaultWorld,Shader,3,2,0,0,2,2,2,0,2
+Sprites_Mask--9eafa896165a,Sprites/Mask,Shader,12,4,4,4,4,4,4,0,4
+UI_Default--c2aa97ef6879,UI/Default,Shader,12,5,5,5,6,6,6,0,6
+Hidden_VR_BlitTexArraySlice--cc9980e61e50,Hidden/VR/BlitTexArraySlice,Shader,3,2,2,2,2,2,2,0,2
+Hidden_Internal-ODSWorldTexture--4e5ec14568d4,Hidden/Internal-ODSWorldTexture,Shader,24,15,15,15,14,14,14,0,14
+Hidden_Internal-CubemapToEquirect--5b147ee19ed7,Hidden/Internal-CubemapToEquirect,Shader,3,2,2,2,2,2,2,0,2
+Hidden_VR_BlitFromTex2DToTexArraySlice--6aa7e124fa5c,Hidden/VR/BlitFromTex2DToTexArraySlice,Shader,6,5,4,4,3,2,2,0,2
+Hidden_VideoComposite--37a6ef0fc628,Hidden/VideoComposite,Shader,3,2,2,2,2,2,2,0,2
+Hidden_VideoDecode--333878e75cc6,Hidden/VideoDecode,Shader,34,17,17,17,18,18,18,0,18
+Hidden_Compositing--6f153be8274b,Hidden/Compositing,Shader,3,2,2,2,2,2,2,0,2
+Hidden_TextCore_Distance_Field_SSD--249fd30aaa61,Hidden/TextCore/Distance Field SSD,Shader,3,2,2,2,2,2,2,0,2

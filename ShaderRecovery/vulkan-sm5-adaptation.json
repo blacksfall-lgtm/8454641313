@@ -1,0 +1,1697 @@
+[
+  {
+    "source": "Decompiled/Vulkan/HLSL/0253f0b0926a2649ca9b3953239b19e06e67d03ef81533d68dc33c814202bbfe.hlsl",
+    "spirv": "Programs/SPIRV/0253f0b0926a2649ca9b3953239b19e06e67d03ef81533d68dc33c814202bbfe.spv",
+    "profile": "ps_5_0",
+    "reason": "Vulkan binding numbers exceed D3D11 sampler slot limit",
+    "requiresHostBindingChange": true,
+    "file": "Adapted/VulkanSM5/0253f0b0926a2649ca9b3953239b19e06e67d03ef81533d68dc33c814202bbfe.hlsl",
+    "samplerSlotRemap": {
+      "19": 0,
+      "20": 1,
+      "21": 2
+    },
+    "compile": {
+      "success": true,
+      "hresult": "0x0",
+      "byteCount": 31504,
+      "messages": ""
+    }
+  },
+  {
+    "source": "Decompiled/Vulkan/HLSL/053e84cbb5c71ea51521d5eec7ddb47046938ea3ee2168f619c48140eca68f7a.hlsl",
+    "spirv": "Programs/SPIRV/053e84cbb5c71ea51521d5eec7ddb47046938ea3ee2168f619c48140eca68f7a.spv",
+    "profile": "vs_5_0",
+    "reason": "Vulkan binding numbers exceed D3D11 sampler slot limit",
+    "requiresHostBindingChange": true,
+    "file": "Adapted/VulkanSM5/053e84cbb5c71ea51521d5eec7ddb47046938ea3ee2168f619c48140eca68f7a.hlsl",
+    "samplerSlotRemap": {
+      "9": 0,
+      "15": 1,
+      "16": 2,
+      "17": 3
+    },
+    "compile": {
+      "success": true,
+      "hresult": "0x0",
+      "byteCount": 18340,
+      "messages": "E:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(297,20-25): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(298,20-25): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(299,20-25): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(303,20-25): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(304,20-25): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(305,20-25): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(309,40-45): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(314,27-32): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(314,66-71): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(316,27-32): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(325,39-44): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(341,30-35): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(342,20-25): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(343,20-25): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(344,20-25): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(347,19-24): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(347,45-50): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(486,43-48): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(496,37-42): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(498,28-33): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(500,19-24): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(501,19-24): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(507,30-35): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(508,30-35): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(509,30-35): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(516,39-44): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(518,28-33): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(520,28-33): warning X3556: integer divides may be much slower, try using uints if possible.\n\u0000"
+    }
+  },
+  {
+    "source": "Decompiled/Vulkan/HLSL/0aa3f2695b38b0f9a91740fb183537f53c4c6751403591914c6c269bb210c800.hlsl",
+    "spirv": "Programs/SPIRV/0aa3f2695b38b0f9a91740fb183537f53c4c6751403591914c6c269bb210c800.spv",
+    "profile": "ps_5_0",
+    "reason": "Vulkan binding numbers exceed D3D11 sampler slot limit",
+    "requiresHostBindingChange": true,
+    "file": "Adapted/VulkanSM5/0aa3f2695b38b0f9a91740fb183537f53c4c6751403591914c6c269bb210c800.hlsl",
+    "samplerSlotRemap": {
+      "20": 0,
+      "21": 1,
+      "22": 2,
+      "23": 3,
+      "24": 4,
+      "25": 5,
+      "26": 6
+    },
+    "compile": {
+      "success": true,
+      "hresult": "0x0",
+      "byteCount": 37452,
+      "messages": ""
+    }
+  },
+  {
+    "source": "Decompiled/Vulkan/HLSL/0afd4805548a3a6af5fd00679e2c52fe33a0a0d31c8f7f4fbe7cf7de51ba2519.hlsl",
+    "spirv": "Programs/SPIRV/0afd4805548a3a6af5fd00679e2c52fe33a0a0d31c8f7f4fbe7cf7de51ba2519.spv",
+    "profile": "ps_5_0",
+    "reason": "Vulkan binding numbers exceed D3D11 sampler slot limit",
+    "requiresHostBindingChange": true,
+    "file": "Adapted/VulkanSM5/0afd4805548a3a6af5fd00679e2c52fe33a0a0d31c8f7f4fbe7cf7de51ba2519.hlsl",
+    "samplerSlotRemap": {
+      "19": 0,
+      "20": 1,
+      "21": 2
+    },
+    "compile": {
+      "success": true,
+      "hresult": "0x0",
+      "byteCount": 30788,
+      "messages": ""
+    }
+  },
+  {
+    "source": "Decompiled/Vulkan/HLSL/0b9721459c11d0b7ede2f094452b671fcb9eed7c657b1ff9c2ec88c56ce8022a.hlsl",
+    "spirv": "Programs/SPIRV/0b9721459c11d0b7ede2f094452b671fcb9eed7c657b1ff9c2ec88c56ce8022a.spv",
+    "profile": "ps_5_0",
+    "reason": "Vulkan binding numbers exceed D3D11 sampler slot limit",
+    "requiresHostBindingChange": true,
+    "file": "Adapted/VulkanSM5/0b9721459c11d0b7ede2f094452b671fcb9eed7c657b1ff9c2ec88c56ce8022a.hlsl",
+    "samplerSlotRemap": {
+      "18": 0,
+      "19": 1,
+      "20": 2,
+      "21": 3,
+      "22": 4,
+      "23": 5,
+      "24": 6
+    },
+    "compile": {
+      "success": true,
+      "hresult": "0x0",
+      "byteCount": 27476,
+      "messages": ""
+    }
+  },
+  {
+    "source": "Decompiled/Vulkan/HLSL/0b983fa1ef8fdc9ce11fa6eb113cfdfb5932c3575d5ca90236a1b2a1a9eb7f1a.hlsl",
+    "spirv": "Programs/SPIRV/0b983fa1ef8fdc9ce11fa6eb113cfdfb5932c3575d5ca90236a1b2a1a9eb7f1a.spv",
+    "profile": "vs_5_0",
+    "reason": "Vulkan binding numbers exceed D3D11 sampler slot limit",
+    "requiresHostBindingChange": true,
+    "file": "Adapted/VulkanSM5/0b983fa1ef8fdc9ce11fa6eb113cfdfb5932c3575d5ca90236a1b2a1a9eb7f1a.hlsl",
+    "samplerSlotRemap": {
+      "9": 0,
+      "15": 1,
+      "16": 2,
+      "17": 3
+    },
+    "compile": {
+      "success": true,
+      "hresult": "0x0",
+      "byteCount": 14444,
+      "messages": ""
+    }
+  },
+  {
+    "source": "Decompiled/Vulkan/HLSL/123528282231e46cd13b30222614eb025eea9c0697c8476a825acbea3399c103.hlsl",
+    "spirv": "Programs/SPIRV/123528282231e46cd13b30222614eb025eea9c0697c8476a825acbea3399c103.spv",
+    "profile": "ps_5_0",
+    "reason": "Vulkan binding numbers exceed D3D11 sampler slot limit",
+    "requiresHostBindingChange": true,
+    "file": "Adapted/VulkanSM5/123528282231e46cd13b30222614eb025eea9c0697c8476a825acbea3399c103.hlsl",
+    "samplerSlotRemap": {
+      "13": 0,
+      "14": 1,
+      "15": 2,
+      "16": 3
+    },
+    "compile": {
+      "success": true,
+      "hresult": "0x0",
+      "byteCount": 19588,
+      "messages": ""
+    }
+  },
+  {
+    "source": "Decompiled/Vulkan/HLSL/1358f378113e8317b03944b4dca85dfe4ca8e29fb79f5ffe767ec59815d2bb7d.hlsl",
+    "spirv": "Programs/SPIRV/1358f378113e8317b03944b4dca85dfe4ca8e29fb79f5ffe767ec59815d2bb7d.spv",
+    "profile": "ps_5_0",
+    "reason": "Vulkan binding numbers exceed D3D11 sampler slot limit",
+    "requiresHostBindingChange": true,
+    "file": "Adapted/VulkanSM5/1358f378113e8317b03944b4dca85dfe4ca8e29fb79f5ffe767ec59815d2bb7d.hlsl",
+    "samplerSlotRemap": {
+      "15": 0,
+      "16": 1,
+      "17": 2,
+      "18": 3
+    },
+    "compile": {
+      "success": true,
+      "hresult": "0x0",
+      "byteCount": 22256,
+      "messages": ""
+    }
+  },
+  {
+    "source": "Decompiled/Vulkan/HLSL/15075f119bd86ee32b3ef368c4d78ff56dbb8e0c11c01b4d0dd9938ba1c5a42d.hlsl",
+    "spirv": "Programs/SPIRV/15075f119bd86ee32b3ef368c4d78ff56dbb8e0c11c01b4d0dd9938ba1c5a42d.spv",
+    "profile": "ps_5_0",
+    "reason": "Vulkan binding numbers exceed D3D11 sampler slot limit",
+    "requiresHostBindingChange": true,
+    "file": "Adapted/VulkanSM5/15075f119bd86ee32b3ef368c4d78ff56dbb8e0c11c01b4d0dd9938ba1c5a42d.hlsl",
+    "samplerSlotRemap": {
+      "22": 0,
+      "23": 1,
+      "24": 2,
+      "25": 3,
+      "26": 4,
+      "27": 5
+    },
+    "compile": {
+      "success": true,
+      "hresult": "0x0",
+      "byteCount": 43260,
+      "messages": ""
+    }
+  },
+  {
+    "source": "Decompiled/Vulkan/HLSL/15300a8fb77de9ef92a82db36ff366f39658708a7527d81ef7b4ba14ecee8535.hlsl",
+    "spirv": "Programs/SPIRV/15300a8fb77de9ef92a82db36ff366f39658708a7527d81ef7b4ba14ecee8535.spv",
+    "profile": "vs_5_0",
+    "reason": "Vulkan binding numbers exceed D3D11 sampler slot limit",
+    "requiresHostBindingChange": true,
+    "file": "Adapted/VulkanSM5/15300a8fb77de9ef92a82db36ff366f39658708a7527d81ef7b4ba14ecee8535.hlsl",
+    "samplerSlotRemap": {
+      "9": 0,
+      "15": 1,
+      "16": 2,
+      "17": 3
+    },
+    "compile": {
+      "success": true,
+      "hresult": "0x0",
+      "byteCount": 18336,
+      "messages": "E:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(301,20-25): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(302,20-25): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(303,20-25): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(307,20-25): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(308,20-25): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(309,20-25): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(313,40-45): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(318,27-32): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(318,66-71): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(320,27-32): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(330,39-44): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(346,30-35): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(347,20-25): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(348,20-25): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(349,20-25): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(352,19-24): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(352,45-50): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(477,42-47): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(487,37-42): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(489,28-33): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(491,19-24): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(492,19-24): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(498,30-35): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(499,30-35): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(500,30-35): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(507,39-44): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(509,28-33): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(511,28-33): warning X3556: integer divides may be much slower, try using uints if possible.\n\u0000"
+    }
+  },
+  {
+    "source": "Decompiled/Vulkan/HLSL/18f31b982b4eece08b4925c374443a7a10f9a4190aff3557de647016fdc1e7e1.hlsl",
+    "spirv": "Programs/SPIRV/18f31b982b4eece08b4925c374443a7a10f9a4190aff3557de647016fdc1e7e1.bin",
+    "profile": "cs_5_0",
+    "reason": "Vulkan binding numbers exceed D3D11 sampler slot limit",
+    "requiresHostBindingChange": true,
+    "file": "Adapted/VulkanSM5/18f31b982b4eece08b4925c374443a7a10f9a4190aff3557de647016fdc1e7e1.hlsl",
+    "samplerSlotRemap": {
+      "17": 0,
+      "18": 1,
+      "19": 2,
+      "20": 3,
+      "21": 4
+    },
+    "compile": {
+      "success": true,
+      "hresult": "0x0",
+      "byteCount": 29356,
+      "messages": ""
+    }
+  },
+  {
+    "source": "Decompiled/Vulkan/HLSL/1a0faef81cdbcded63692e2b4f13133ef0572fb451a35fe412e9b808ad1cb92e.hlsl",
+    "spirv": "Programs/SPIRV/1a0faef81cdbcded63692e2b4f13133ef0572fb451a35fe412e9b808ad1cb92e.spv",
+    "profile": "ps_5_0",
+    "reason": "Vulkan binding numbers exceed D3D11 sampler slot limit",
+    "requiresHostBindingChange": true,
+    "file": "Adapted/VulkanSM5/1a0faef81cdbcded63692e2b4f13133ef0572fb451a35fe412e9b808ad1cb92e.hlsl",
+    "samplerSlotRemap": {
+      "20": 0,
+      "21": 1,
+      "22": 2,
+      "23": 3,
+      "24": 4,
+      "25": 5,
+      "26": 6
+    },
+    "compile": {
+      "success": true,
+      "hresult": "0x0",
+      "byteCount": 45332,
+      "messages": ""
+    }
+  },
+  {
+    "source": "Decompiled/Vulkan/HLSL/1bf4a39912e79cf9ee7037942f9cf8c62d58772e0611fe4c7fb0fac96cac703b.hlsl",
+    "spirv": "Programs/SPIRV/1bf4a39912e79cf9ee7037942f9cf8c62d58772e0611fe4c7fb0fac96cac703b.spv",
+    "profile": "ps_5_0",
+    "reason": "Vulkan binding numbers exceed D3D11 sampler slot limit",
+    "requiresHostBindingChange": true,
+    "file": "Adapted/VulkanSM5/1bf4a39912e79cf9ee7037942f9cf8c62d58772e0611fe4c7fb0fac96cac703b.hlsl",
+    "samplerSlotRemap": {
+      "13": 0,
+      "14": 1,
+      "15": 2,
+      "16": 3
+    },
+    "compile": {
+      "success": true,
+      "hresult": "0x0",
+      "byteCount": 20016,
+      "messages": ""
+    }
+  },
+  {
+    "source": "Decompiled/Vulkan/HLSL/26f010fd2fd0b4ea511e620baa52f51d2a8b5538da49132d85fe2889c2c69a68.hlsl",
+    "spirv": "Programs/SPIRV/26f010fd2fd0b4ea511e620baa52f51d2a8b5538da49132d85fe2889c2c69a68.spv",
+    "profile": "ps_5_0",
+    "reason": "Vulkan binding numbers exceed D3D11 sampler slot limit",
+    "requiresHostBindingChange": true,
+    "file": "Adapted/VulkanSM5/26f010fd2fd0b4ea511e620baa52f51d2a8b5538da49132d85fe2889c2c69a68.hlsl",
+    "samplerSlotRemap": {
+      "18": 0,
+      "19": 1,
+      "20": 2,
+      "21": 3,
+      "22": 4,
+      "23": 5,
+      "24": 6
+    },
+    "compile": {
+      "success": true,
+      "hresult": "0x0",
+      "byteCount": 27188,
+      "messages": ""
+    }
+  },
+  {
+    "source": "Decompiled/Vulkan/HLSL/29652d636de6630edf31982d41e7865f4f99bc22b9ca5ba32cd67c2612be5ca2.hlsl",
+    "spirv": "Programs/SPIRV/29652d636de6630edf31982d41e7865f4f99bc22b9ca5ba32cd67c2612be5ca2.spv",
+    "profile": "ps_5_0",
+    "reason": "Vulkan binding numbers exceed D3D11 sampler slot limit",
+    "requiresHostBindingChange": true,
+    "file": "Adapted/VulkanSM5/29652d636de6630edf31982d41e7865f4f99bc22b9ca5ba32cd67c2612be5ca2.hlsl",
+    "samplerSlotRemap": {
+      "13": 0,
+      "14": 1,
+      "15": 2,
+      "16": 3
+    },
+    "compile": {
+      "success": true,
+      "hresult": "0x0",
+      "byteCount": 20300,
+      "messages": ""
+    }
+  },
+  {
+    "source": "Decompiled/Vulkan/HLSL/2a091354cbf3064980498884d12935c1db1eb58a18e8fbddfb0644ea310fc65b.hlsl",
+    "spirv": "Programs/SPIRV/2a091354cbf3064980498884d12935c1db1eb58a18e8fbddfb0644ea310fc65b.spv",
+    "profile": "ps_5_0",
+    "reason": "Vulkan binding numbers exceed D3D11 sampler slot limit",
+    "requiresHostBindingChange": true,
+    "file": "Adapted/VulkanSM5/2a091354cbf3064980498884d12935c1db1eb58a18e8fbddfb0644ea310fc65b.hlsl",
+    "samplerSlotRemap": {
+      "20": 0,
+      "21": 1,
+      "22": 2
+    },
+    "compile": {
+      "success": true,
+      "hresult": "0x0",
+      "byteCount": 31144,
+      "messages": ""
+    }
+  },
+  {
+    "source": "Decompiled/Vulkan/HLSL/2e2b4f3b1fe79baf9b254a4a4da830880ce5e3c9869aa9edd50bfe67b81d0e73.hlsl",
+    "spirv": "Programs/SPIRV/2e2b4f3b1fe79baf9b254a4a4da830880ce5e3c9869aa9edd50bfe67b81d0e73.spv",
+    "profile": "vs_5_0",
+    "reason": "Vulkan binding numbers exceed D3D11 sampler slot limit",
+    "requiresHostBindingChange": true,
+    "file": "Adapted/VulkanSM5/2e2b4f3b1fe79baf9b254a4a4da830880ce5e3c9869aa9edd50bfe67b81d0e73.hlsl",
+    "samplerSlotRemap": {
+      "24": 0,
+      "28": 1,
+      "29": 2
+    },
+    "compile": {
+      "success": true,
+      "hresult": "0x0",
+      "byteCount": 14816,
+      "messages": ""
+    }
+  },
+  {
+    "source": "Decompiled/Vulkan/HLSL/34afc464f17c2a61583ddb01f8545cb7cf46f12c25e4a4199840469f17edd658.hlsl",
+    "spirv": "Programs/SPIRV/34afc464f17c2a61583ddb01f8545cb7cf46f12c25e4a4199840469f17edd658.spv",
+    "profile": "ps_5_0",
+    "reason": "Vulkan binding numbers exceed D3D11 sampler slot limit",
+    "requiresHostBindingChange": true,
+    "file": "Adapted/VulkanSM5/34afc464f17c2a61583ddb01f8545cb7cf46f12c25e4a4199840469f17edd658.hlsl",
+    "samplerSlotRemap": {
+      "13": 0,
+      "14": 1,
+      "15": 2,
+      "16": 3
+    },
+    "compile": {
+      "success": true,
+      "hresult": "0x0",
+      "byteCount": 19644,
+      "messages": ""
+    }
+  },
+  {
+    "source": "Decompiled/Vulkan/HLSL/36f64321c357b933a20857906c3d955a7ce2949405d872ba263e1efb39e9aa01.hlsl",
+    "spirv": "Programs/SPIRV/36f64321c357b933a20857906c3d955a7ce2949405d872ba263e1efb39e9aa01.spv",
+    "profile": "ps_5_0",
+    "reason": "Vulkan binding numbers exceed D3D11 sampler slot limit",
+    "requiresHostBindingChange": true,
+    "file": "Adapted/VulkanSM5/36f64321c357b933a20857906c3d955a7ce2949405d872ba263e1efb39e9aa01.hlsl",
+    "samplerSlotRemap": {
+      "22": 0,
+      "23": 1,
+      "24": 2,
+      "25": 3,
+      "26": 4,
+      "27": 5
+    },
+    "compile": {
+      "success": true,
+      "hresult": "0x0",
+      "byteCount": 41844,
+      "messages": ""
+    }
+  },
+  {
+    "source": "Decompiled/Vulkan/HLSL/387d5ac5d97716ddaffed4e933235343d8ead7145b1fa66828f589a08b27147c.hlsl",
+    "spirv": "Programs/SPIRV/387d5ac5d97716ddaffed4e933235343d8ead7145b1fa66828f589a08b27147c.spv",
+    "profile": "ps_5_0",
+    "reason": "Vulkan binding numbers exceed D3D11 sampler slot limit",
+    "requiresHostBindingChange": true,
+    "file": "Adapted/VulkanSM5/387d5ac5d97716ddaffed4e933235343d8ead7145b1fa66828f589a08b27147c.hlsl",
+    "samplerSlotRemap": {
+      "16": 0,
+      "17": 1,
+      "18": 2,
+      "19": 3
+    },
+    "compile": {
+      "success": true,
+      "hresult": "0x0",
+      "byteCount": 26892,
+      "messages": ""
+    }
+  },
+  {
+    "source": "Decompiled/Vulkan/HLSL/3a6859ea5c67014578aca546ba59299f839495bac02624f3f9589525cbc44b62.hlsl",
+    "spirv": "Programs/SPIRV/3a6859ea5c67014578aca546ba59299f839495bac02624f3f9589525cbc44b62.spv",
+    "profile": "ps_5_0",
+    "reason": "Vulkan binding numbers exceed D3D11 sampler slot limit",
+    "requiresHostBindingChange": true,
+    "file": "Adapted/VulkanSM5/3a6859ea5c67014578aca546ba59299f839495bac02624f3f9589525cbc44b62.hlsl",
+    "samplerSlotRemap": {
+      "14": 0,
+      "15": 1,
+      "16": 2,
+      "17": 3,
+      "18": 4
+    },
+    "compile": {
+      "success": true,
+      "hresult": "0x0",
+      "byteCount": 21648,
+      "messages": ""
+    }
+  },
+  {
+    "source": "Decompiled/Vulkan/HLSL/3bd78a24b7b452022294c0906791ae09fdbabe1e53f5041be82bdcaf196f3f31.hlsl",
+    "spirv": "Programs/SPIRV/3bd78a24b7b452022294c0906791ae09fdbabe1e53f5041be82bdcaf196f3f31.spv",
+    "profile": "ps_5_0",
+    "reason": "Vulkan binding numbers exceed D3D11 sampler slot limit",
+    "requiresHostBindingChange": true,
+    "file": "Adapted/VulkanSM5/3bd78a24b7b452022294c0906791ae09fdbabe1e53f5041be82bdcaf196f3f31.hlsl",
+    "samplerSlotRemap": {
+      "13": 0,
+      "14": 1,
+      "15": 2,
+      "16": 3
+    },
+    "compile": {
+      "success": true,
+      "hresult": "0x0",
+      "byteCount": 18932,
+      "messages": ""
+    }
+  },
+  {
+    "source": "Decompiled/Vulkan/HLSL/3c00ab783004604b1939f6321d0234d92affa2db88853717139657a863e8aad2.hlsl",
+    "spirv": "Programs/SPIRV/3c00ab783004604b1939f6321d0234d92affa2db88853717139657a863e8aad2.spv",
+    "profile": "ps_5_0",
+    "reason": "Vulkan binding numbers exceed D3D11 sampler slot limit",
+    "requiresHostBindingChange": true,
+    "file": "Adapted/VulkanSM5/3c00ab783004604b1939f6321d0234d92affa2db88853717139657a863e8aad2.hlsl",
+    "samplerSlotRemap": {
+      "14": 0,
+      "15": 1,
+      "16": 2,
+      "17": 3,
+      "18": 4
+    },
+    "compile": {
+      "success": true,
+      "hresult": "0x0",
+      "byteCount": 21820,
+      "messages": ""
+    }
+  },
+  {
+    "source": "Decompiled/Vulkan/HLSL/4599965814018c116c5d0f84b373968c47362b5bed2d52e3d6f71ea1e0d178ec.hlsl",
+    "spirv": "Programs/SPIRV/4599965814018c116c5d0f84b373968c47362b5bed2d52e3d6f71ea1e0d178ec.spv",
+    "profile": "ps_5_0",
+    "reason": "Vulkan binding numbers exceed D3D11 sampler slot limit",
+    "requiresHostBindingChange": true,
+    "file": "Adapted/VulkanSM5/4599965814018c116c5d0f84b373968c47362b5bed2d52e3d6f71ea1e0d178ec.hlsl",
+    "samplerSlotRemap": {
+      "23": 0,
+      "24": 1,
+      "25": 2,
+      "26": 3,
+      "27": 4,
+      "28": 5,
+      "29": 6
+    },
+    "compile": {
+      "success": true,
+      "hresult": "0x0",
+      "byteCount": 43088,
+      "messages": ""
+    }
+  },
+  {
+    "source": "Decompiled/Vulkan/HLSL/45ecbb25c78aec6228ade80030bfa7060fb2ce207f5c8bed32b3d6b1a8e69996.hlsl",
+    "spirv": "Programs/SPIRV/45ecbb25c78aec6228ade80030bfa7060fb2ce207f5c8bed32b3d6b1a8e69996.spv",
+    "profile": "vs_5_0",
+    "reason": "Vulkan binding numbers exceed D3D11 sampler slot limit",
+    "requiresHostBindingChange": true,
+    "file": "Adapted/VulkanSM5/45ecbb25c78aec6228ade80030bfa7060fb2ce207f5c8bed32b3d6b1a8e69996.hlsl",
+    "samplerSlotRemap": {
+      "25": 0,
+      "31": 1,
+      "32": 2,
+      "33": 3
+    },
+    "compile": {
+      "success": true,
+      "hresult": "0x0",
+      "byteCount": 14444,
+      "messages": ""
+    }
+  },
+  {
+    "source": "Decompiled/Vulkan/HLSL/49af97509019b171a55af655dfd4c026cc3974dd596cdcc447874203bc46cb1f.hlsl",
+    "spirv": "Programs/SPIRV/49af97509019b171a55af655dfd4c026cc3974dd596cdcc447874203bc46cb1f.spv",
+    "profile": "ps_5_0",
+    "reason": "Vulkan binding numbers exceed D3D11 sampler slot limit",
+    "requiresHostBindingChange": true,
+    "file": "Adapted/VulkanSM5/49af97509019b171a55af655dfd4c026cc3974dd596cdcc447874203bc46cb1f.hlsl",
+    "samplerSlotRemap": {
+      "14": 0,
+      "15": 1,
+      "16": 2,
+      "17": 3,
+      "18": 4
+    },
+    "compile": {
+      "success": true,
+      "hresult": "0x0",
+      "byteCount": 19120,
+      "messages": ""
+    }
+  },
+  {
+    "source": "Decompiled/Vulkan/HLSL/55024c5cf5d15af77c0ea2be31e7b9c5216ee890414ba10fb26b50488de6ed18.hlsl",
+    "spirv": "Programs/SPIRV/55024c5cf5d15af77c0ea2be31e7b9c5216ee890414ba10fb26b50488de6ed18.spv",
+    "profile": "ps_5_0",
+    "reason": "Vulkan binding numbers exceed D3D11 sampler slot limit",
+    "requiresHostBindingChange": true,
+    "file": "Adapted/VulkanSM5/55024c5cf5d15af77c0ea2be31e7b9c5216ee890414ba10fb26b50488de6ed18.hlsl",
+    "samplerSlotRemap": {
+      "19": 0,
+      "20": 1,
+      "21": 2,
+      "22": 3,
+      "23": 4,
+      "24": 5
+    },
+    "compile": {
+      "success": true,
+      "hresult": "0x0",
+      "byteCount": 30892,
+      "messages": ""
+    }
+  },
+  {
+    "source": "Decompiled/Vulkan/HLSL/5518d6e7bdb9ce61fb2822219bb96358e7693682c3ebbcde623cf9de04d6d5c4.hlsl",
+    "spirv": "Programs/SPIRV/5518d6e7bdb9ce61fb2822219bb96358e7693682c3ebbcde623cf9de04d6d5c4.spv",
+    "profile": "ps_5_0",
+    "reason": "Vulkan binding numbers exceed D3D11 sampler slot limit",
+    "requiresHostBindingChange": true,
+    "file": "Adapted/VulkanSM5/5518d6e7bdb9ce61fb2822219bb96358e7693682c3ebbcde623cf9de04d6d5c4.hlsl",
+    "samplerSlotRemap": {
+      "22": 0,
+      "23": 1,
+      "24": 2,
+      "25": 3,
+      "26": 4,
+      "27": 5
+    },
+    "compile": {
+      "success": true,
+      "hresult": "0x0",
+      "byteCount": 41856,
+      "messages": ""
+    }
+  },
+  {
+    "source": "Decompiled/Vulkan/HLSL/56737a2cfd45964cfc10c18c11c0cafcd3319d0fa57020ac0907794fe8c21d87.hlsl",
+    "spirv": "Programs/SPIRV/56737a2cfd45964cfc10c18c11c0cafcd3319d0fa57020ac0907794fe8c21d87.spv",
+    "profile": "ps_5_0",
+    "reason": "Vulkan binding numbers exceed D3D11 sampler slot limit",
+    "requiresHostBindingChange": true,
+    "file": "Adapted/VulkanSM5/56737a2cfd45964cfc10c18c11c0cafcd3319d0fa57020ac0907794fe8c21d87.hlsl",
+    "samplerSlotRemap": {
+      "17": 0,
+      "18": 1,
+      "19": 2,
+      "20": 3,
+      "21": 4,
+      "22": 5
+    },
+    "compile": {
+      "success": true,
+      "hresult": "0x0",
+      "byteCount": 26984,
+      "messages": ""
+    }
+  },
+  {
+    "source": "Decompiled/Vulkan/HLSL/56d32ec355301f894aeafad4e1d9f353c5e09392a2df12530eb19fd9c2efa441.hlsl",
+    "spirv": "Programs/SPIRV/56d32ec355301f894aeafad4e1d9f353c5e09392a2df12530eb19fd9c2efa441.spv",
+    "profile": "ps_5_0",
+    "reason": "Vulkan binding numbers exceed D3D11 sampler slot limit",
+    "requiresHostBindingChange": true,
+    "file": "Adapted/VulkanSM5/56d32ec355301f894aeafad4e1d9f353c5e09392a2df12530eb19fd9c2efa441.hlsl",
+    "samplerSlotRemap": {
+      "23": 0,
+      "24": 1,
+      "25": 2,
+      "26": 3,
+      "27": 4,
+      "28": 5,
+      "29": 6
+    },
+    "compile": {
+      "success": true,
+      "hresult": "0x0",
+      "byteCount": 43128,
+      "messages": ""
+    }
+  },
+  {
+    "source": "Decompiled/Vulkan/HLSL/57118c53deae452d00388e81d7a8063e38ba0e13b6e7396f1490923bcca7f189.hlsl",
+    "spirv": "Programs/SPIRV/57118c53deae452d00388e81d7a8063e38ba0e13b6e7396f1490923bcca7f189.spv",
+    "profile": "ps_5_0",
+    "reason": "Vulkan binding numbers exceed D3D11 sampler slot limit",
+    "requiresHostBindingChange": true,
+    "file": "Adapted/VulkanSM5/57118c53deae452d00388e81d7a8063e38ba0e13b6e7396f1490923bcca7f189.hlsl",
+    "samplerSlotRemap": {
+      "18": 0,
+      "19": 1,
+      "20": 2,
+      "21": 3,
+      "22": 4,
+      "23": 5,
+      "24": 6
+    },
+    "compile": {
+      "success": true,
+      "hresult": "0x0",
+      "byteCount": 27848,
+      "messages": ""
+    }
+  },
+  {
+    "source": "Decompiled/Vulkan/HLSL/59fa6bf1646d392350ffef6dd73d28c30d2d7ddbedd1b984bd0a89fb00f28a5c.hlsl",
+    "spirv": "Programs/SPIRV/59fa6bf1646d392350ffef6dd73d28c30d2d7ddbedd1b984bd0a89fb00f28a5c.spv",
+    "profile": "ps_5_0",
+    "reason": "Vulkan binding numbers exceed D3D11 sampler slot limit",
+    "requiresHostBindingChange": true,
+    "file": "Adapted/VulkanSM5/59fa6bf1646d392350ffef6dd73d28c30d2d7ddbedd1b984bd0a89fb00f28a5c.hlsl",
+    "samplerSlotRemap": {
+      "17": 0,
+      "18": 1,
+      "19": 2,
+      "20": 3,
+      "21": 4,
+      "22": 5
+    },
+    "compile": {
+      "success": true,
+      "hresult": "0x0",
+      "byteCount": 30596,
+      "messages": ""
+    }
+  },
+  {
+    "source": "Decompiled/Vulkan/HLSL/5c6f30b0d715533dee6141117757cbf0587b4b13f3b1f818296cd19cd5882152.hlsl",
+    "spirv": "Programs/SPIRV/5c6f30b0d715533dee6141117757cbf0587b4b13f3b1f818296cd19cd5882152.spv",
+    "profile": "ps_5_0",
+    "reason": "Vulkan binding numbers exceed D3D11 sampler slot limit",
+    "requiresHostBindingChange": true,
+    "file": "Adapted/VulkanSM5/5c6f30b0d715533dee6141117757cbf0587b4b13f3b1f818296cd19cd5882152.hlsl",
+    "samplerSlotRemap": {
+      "22": 0,
+      "23": 1,
+      "24": 2,
+      "25": 3,
+      "26": 4,
+      "27": 5
+    },
+    "compile": {
+      "success": true,
+      "hresult": "0x0",
+      "byteCount": 43056,
+      "messages": ""
+    }
+  },
+  {
+    "source": "Decompiled/Vulkan/HLSL/5e506169075072055b2325963693f5a51f56f844630891b3887825bdbed22481.hlsl",
+    "spirv": "Programs/SPIRV/5e506169075072055b2325963693f5a51f56f844630891b3887825bdbed22481.spv",
+    "profile": "ps_5_0",
+    "reason": "Vulkan binding numbers exceed D3D11 sampler slot limit",
+    "requiresHostBindingChange": true,
+    "file": "Adapted/VulkanSM5/5e506169075072055b2325963693f5a51f56f844630891b3887825bdbed22481.hlsl",
+    "samplerSlotRemap": {
+      "16": 0,
+      "17": 1,
+      "18": 2,
+      "19": 3,
+      "20": 4
+    },
+    "compile": {
+      "success": true,
+      "hresult": "0x0",
+      "byteCount": 36688,
+      "messages": ""
+    }
+  },
+  {
+    "source": "Decompiled/Vulkan/HLSL/60091ef71c74931d0ea488bd2801baf39731f44377204e7a2e7f42e2c4c04e28.hlsl",
+    "spirv": "Programs/SPIRV/60091ef71c74931d0ea488bd2801baf39731f44377204e7a2e7f42e2c4c04e28.spv",
+    "profile": "ps_5_0",
+    "reason": "Vulkan binding numbers exceed D3D11 sampler slot limit",
+    "requiresHostBindingChange": true,
+    "file": "Adapted/VulkanSM5/60091ef71c74931d0ea488bd2801baf39731f44377204e7a2e7f42e2c4c04e28.hlsl",
+    "samplerSlotRemap": {
+      "18": 0,
+      "19": 1,
+      "20": 2
+    },
+    "compile": {
+      "success": true,
+      "hresult": "0x0",
+      "byteCount": 30376,
+      "messages": ""
+    }
+  },
+  {
+    "source": "Decompiled/Vulkan/HLSL/65fe96d94a194d2a42bac7d494e4accf18259624892057c609e2e39dc43f3edf.hlsl",
+    "spirv": "Programs/SPIRV/65fe96d94a194d2a42bac7d494e4accf18259624892057c609e2e39dc43f3edf.spv",
+    "profile": "ps_5_0",
+    "reason": "Vulkan binding numbers exceed D3D11 sampler slot limit",
+    "requiresHostBindingChange": true,
+    "file": "Adapted/VulkanSM5/65fe96d94a194d2a42bac7d494e4accf18259624892057c609e2e39dc43f3edf.hlsl",
+    "samplerSlotRemap": {
+      "20": 0,
+      "21": 1,
+      "22": 2
+    },
+    "compile": {
+      "success": true,
+      "hresult": "0x0",
+      "byteCount": 31140,
+      "messages": ""
+    }
+  },
+  {
+    "source": "Decompiled/Vulkan/HLSL/66ddbbe2739d1ed7a8eacb5dc205c725ba3e73344246b34b3c2cba7354fe4517.hlsl",
+    "spirv": "Programs/SPIRV/66ddbbe2739d1ed7a8eacb5dc205c725ba3e73344246b34b3c2cba7354fe4517.spv",
+    "profile": "vs_5_0",
+    "reason": "Vulkan binding numbers exceed D3D11 sampler slot limit",
+    "requiresHostBindingChange": true,
+    "file": "Adapted/VulkanSM5/66ddbbe2739d1ed7a8eacb5dc205c725ba3e73344246b34b3c2cba7354fe4517.hlsl",
+    "samplerSlotRemap": {
+      "9": 0,
+      "15": 1,
+      "16": 2,
+      "17": 3
+    },
+    "compile": {
+      "success": true,
+      "hresult": "0x0",
+      "byteCount": 17216,
+      "messages": ""
+    }
+  },
+  {
+    "source": "Decompiled/Vulkan/HLSL/708d533aeed3e77046112733d6a113da09484ba74da665119e8e0f8949b8371c.hlsl",
+    "spirv": "Programs/SPIRV/708d533aeed3e77046112733d6a113da09484ba74da665119e8e0f8949b8371c.spv",
+    "profile": "ps_5_0",
+    "reason": "Vulkan binding numbers exceed D3D11 sampler slot limit",
+    "requiresHostBindingChange": true,
+    "file": "Adapted/VulkanSM5/708d533aeed3e77046112733d6a113da09484ba74da665119e8e0f8949b8371c.hlsl",
+    "samplerSlotRemap": {
+      "21": 0,
+      "22": 1,
+      "23": 2,
+      "24": 3,
+      "25": 4
+    },
+    "compile": {
+      "success": true,
+      "hresult": "0x0",
+      "byteCount": 39932,
+      "messages": ""
+    }
+  },
+  {
+    "source": "Decompiled/Vulkan/HLSL/73c03aaf703185a423afc40448fae856376b6bbbed44a6c64807fe8fecc88b33.hlsl",
+    "spirv": "Programs/SPIRV/73c03aaf703185a423afc40448fae856376b6bbbed44a6c64807fe8fecc88b33.spv",
+    "profile": "vs_5_0",
+    "reason": "Vulkan binding numbers exceed D3D11 sampler slot limit",
+    "requiresHostBindingChange": true,
+    "file": "Adapted/VulkanSM5/73c03aaf703185a423afc40448fae856376b6bbbed44a6c64807fe8fecc88b33.hlsl",
+    "samplerSlotRemap": {
+      "25": 0,
+      "31": 1,
+      "32": 2,
+      "33": 3
+    },
+    "compile": {
+      "success": true,
+      "hresult": "0x0",
+      "byteCount": 14492,
+      "messages": ""
+    }
+  },
+  {
+    "source": "Decompiled/Vulkan/HLSL/7884131a0845315637dc07291888a18c7ec7237e85712a3b33bb70b18c460f79.hlsl",
+    "spirv": "Programs/SPIRV/7884131a0845315637dc07291888a18c7ec7237e85712a3b33bb70b18c460f79.spv",
+    "profile": "ps_5_0",
+    "reason": "Vulkan binding numbers exceed D3D11 sampler slot limit",
+    "requiresHostBindingChange": true,
+    "file": "Adapted/VulkanSM5/7884131a0845315637dc07291888a18c7ec7237e85712a3b33bb70b18c460f79.hlsl",
+    "samplerSlotRemap": {
+      "14": 0,
+      "15": 1,
+      "16": 2,
+      "17": 3,
+      "18": 4
+    },
+    "compile": {
+      "success": true,
+      "hresult": "0x0",
+      "byteCount": 20492,
+      "messages": ""
+    }
+  },
+  {
+    "source": "Decompiled/Vulkan/HLSL/79f49282fc00bd93afbf5aa1c1d78789ea0b225924f18499a2d226c090a99577.hlsl",
+    "spirv": "Programs/SPIRV/79f49282fc00bd93afbf5aa1c1d78789ea0b225924f18499a2d226c090a99577.spv",
+    "profile": "ps_5_0",
+    "reason": "Vulkan binding numbers exceed D3D11 sampler slot limit",
+    "requiresHostBindingChange": true,
+    "file": "Adapted/VulkanSM5/79f49282fc00bd93afbf5aa1c1d78789ea0b225924f18499a2d226c090a99577.hlsl",
+    "samplerSlotRemap": {
+      "23": 0,
+      "24": 1,
+      "25": 2,
+      "26": 3,
+      "27": 4,
+      "28": 5,
+      "29": 6
+    },
+    "compile": {
+      "success": true,
+      "hresult": "0x0",
+      "byteCount": 42988,
+      "messages": ""
+    }
+  },
+  {
+    "source": "Decompiled/Vulkan/HLSL/7aaedab894170151a513092ff4ba44d94bd8d9b4082f9882ae84282385367bca.hlsl",
+    "spirv": "Programs/SPIRV/7aaedab894170151a513092ff4ba44d94bd8d9b4082f9882ae84282385367bca.spv",
+    "profile": "ps_5_0",
+    "reason": "Vulkan binding numbers exceed D3D11 sampler slot limit",
+    "requiresHostBindingChange": true,
+    "file": "Adapted/VulkanSM5/7aaedab894170151a513092ff4ba44d94bd8d9b4082f9882ae84282385367bca.hlsl",
+    "samplerSlotRemap": {
+      "22": 0,
+      "23": 1,
+      "24": 2,
+      "25": 3,
+      "26": 4,
+      "27": 5
+    },
+    "compile": {
+      "success": true,
+      "hresult": "0x0",
+      "byteCount": 43220,
+      "messages": ""
+    }
+  },
+  {
+    "source": "Decompiled/Vulkan/HLSL/7c61dfe865897f1d14c22bf427e9be6366d376697c00061546c426cf5f023d46.hlsl",
+    "spirv": "Programs/SPIRV/7c61dfe865897f1d14c22bf427e9be6366d376697c00061546c426cf5f023d46.spv",
+    "profile": "vs_5_0",
+    "reason": "Vulkan binding numbers exceed D3D11 sampler slot limit",
+    "requiresHostBindingChange": true,
+    "file": "Adapted/VulkanSM5/7c61dfe865897f1d14c22bf427e9be6366d376697c00061546c426cf5f023d46.hlsl",
+    "samplerSlotRemap": {
+      "24": 0,
+      "28": 1,
+      "29": 2
+    },
+    "compile": {
+      "success": true,
+      "hresult": "0x0",
+      "byteCount": 15884,
+      "messages": "E:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(271,20-25): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(272,20-25): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(273,20-25): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(277,20-25): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(278,20-25): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(279,20-25): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(283,40-45): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(288,27-32): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(288,66-71): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(290,27-32): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(300,39-44): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(311,37-42): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(313,27-32): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(315,27-32): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(317,27-32): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(321,21-26): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(321,47-52): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(419,42-47): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(429,36-41): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(431,27-32): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(433,19-24): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(434,19-24): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(440,30-35): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(441,30-35): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(442,30-35): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(449,39-44): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(451,28-33): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(453,28-33): warning X3556: integer divides may be much slower, try using uints if possible.\n\u0000"
+    }
+  },
+  {
+    "source": "Decompiled/Vulkan/HLSL/82876aa9639ad587b02efde9efeedbcd6b3878cb32a01f12b8064da36578d433.hlsl",
+    "spirv": "Programs/SPIRV/82876aa9639ad587b02efde9efeedbcd6b3878cb32a01f12b8064da36578d433.spv",
+    "profile": "ps_5_0",
+    "reason": "Vulkan binding numbers exceed D3D11 sampler slot limit",
+    "requiresHostBindingChange": true,
+    "file": "Adapted/VulkanSM5/82876aa9639ad587b02efde9efeedbcd6b3878cb32a01f12b8064da36578d433.hlsl",
+    "samplerSlotRemap": {
+      "17": 0,
+      "18": 1,
+      "19": 2
+    },
+    "compile": {
+      "success": true,
+      "hresult": "0x0",
+      "byteCount": 29580,
+      "messages": ""
+    }
+  },
+  {
+    "source": "Decompiled/Vulkan/HLSL/87549f55f0c7cc81b7e50b00a864330e429307e790b51258867b993815b785a3.hlsl",
+    "spirv": "Programs/SPIRV/87549f55f0c7cc81b7e50b00a864330e429307e790b51258867b993815b785a3.spv",
+    "profile": "ps_5_0",
+    "reason": "Vulkan binding numbers exceed D3D11 sampler slot limit",
+    "requiresHostBindingChange": true,
+    "file": "Adapted/VulkanSM5/87549f55f0c7cc81b7e50b00a864330e429307e790b51258867b993815b785a3.hlsl",
+    "samplerSlotRemap": {
+      "16": 0,
+      "17": 1,
+      "18": 2,
+      "19": 3,
+      "20": 4
+    },
+    "compile": {
+      "success": true,
+      "hresult": "0x0",
+      "byteCount": 38664,
+      "messages": ""
+    }
+  },
+  {
+    "source": "Decompiled/Vulkan/HLSL/96f688b907a928bd8165dc7d55dae7c7aebeec3ab8cd355669d5b986e7b8a071.hlsl",
+    "spirv": "Programs/SPIRV/96f688b907a928bd8165dc7d55dae7c7aebeec3ab8cd355669d5b986e7b8a071.bin",
+    "profile": "cs_5_0",
+    "reason": "Vulkan binding numbers exceed D3D11 sampler slot limit",
+    "requiresHostBindingChange": true,
+    "file": "Adapted/VulkanSM5/96f688b907a928bd8165dc7d55dae7c7aebeec3ab8cd355669d5b986e7b8a071.hlsl",
+    "samplerSlotRemap": {
+      "18": 0,
+      "19": 1,
+      "20": 2,
+      "21": 3,
+      "22": 4
+    },
+    "compile": {
+      "success": true,
+      "hresult": "0x0",
+      "byteCount": 31224,
+      "messages": ""
+    }
+  },
+  {
+    "source": "Decompiled/Vulkan/HLSL/98929379e67100eef45c5fb19549cc0c37dc147f2e397e1b803a644262068064.hlsl",
+    "spirv": "Programs/SPIRV/98929379e67100eef45c5fb19549cc0c37dc147f2e397e1b803a644262068064.spv",
+    "profile": "ps_5_0",
+    "reason": "Vulkan binding numbers exceed D3D11 sampler slot limit",
+    "requiresHostBindingChange": true,
+    "file": "Adapted/VulkanSM5/98929379e67100eef45c5fb19549cc0c37dc147f2e397e1b803a644262068064.hlsl",
+    "samplerSlotRemap": {
+      "13": 0,
+      "14": 1,
+      "15": 2,
+      "16": 3
+    },
+    "compile": {
+      "success": true,
+      "hresult": "0x0",
+      "byteCount": 18936,
+      "messages": ""
+    }
+  },
+  {
+    "source": "Decompiled/Vulkan/HLSL/996c2e4365bb6522ffc3d6453b179fd7f5335150fb5714310e35b98dab8b3579.hlsl",
+    "spirv": "Programs/SPIRV/996c2e4365bb6522ffc3d6453b179fd7f5335150fb5714310e35b98dab8b3579.spv",
+    "profile": "ps_5_0",
+    "reason": "Vulkan binding numbers exceed D3D11 sampler slot limit",
+    "requiresHostBindingChange": true,
+    "file": "Adapted/VulkanSM5/996c2e4365bb6522ffc3d6453b179fd7f5335150fb5714310e35b98dab8b3579.hlsl",
+    "samplerSlotRemap": {
+      "17": 0,
+      "18": 1,
+      "19": 2
+    },
+    "compile": {
+      "success": true,
+      "hresult": "0x0",
+      "byteCount": 30240,
+      "messages": ""
+    }
+  },
+  {
+    "source": "Decompiled/Vulkan/HLSL/9e20b8b89e526b56cc93b8bdbd4e1aedb9195850c562d8f10eaa22bbdca35530.hlsl",
+    "spirv": "Programs/SPIRV/9e20b8b89e526b56cc93b8bdbd4e1aedb9195850c562d8f10eaa22bbdca35530.spv",
+    "profile": "ps_5_0",
+    "reason": "Vulkan binding numbers exceed D3D11 sampler slot limit",
+    "requiresHostBindingChange": true,
+    "file": "Adapted/VulkanSM5/9e20b8b89e526b56cc93b8bdbd4e1aedb9195850c562d8f10eaa22bbdca35530.hlsl",
+    "samplerSlotRemap": {
+      "21": 0,
+      "22": 1,
+      "23": 2,
+      "24": 3,
+      "25": 4
+    },
+    "compile": {
+      "success": true,
+      "hresult": "0x0",
+      "byteCount": 38876,
+      "messages": ""
+    }
+  },
+  {
+    "source": "Decompiled/Vulkan/HLSL/a18068e72a0e3f214c0657b865d3b49e5ad5bb2f00170f74b7242edb85c174c8.hlsl",
+    "spirv": "Programs/SPIRV/a18068e72a0e3f214c0657b865d3b49e5ad5bb2f00170f74b7242edb85c174c8.spv",
+    "profile": "vs_5_0",
+    "reason": "Vulkan binding numbers exceed D3D11 sampler slot limit",
+    "requiresHostBindingChange": true,
+    "file": "Adapted/VulkanSM5/a18068e72a0e3f214c0657b865d3b49e5ad5bb2f00170f74b7242edb85c174c8.hlsl",
+    "samplerSlotRemap": {
+      "25": 0,
+      "31": 1,
+      "32": 2,
+      "33": 3
+    },
+    "compile": {
+      "success": true,
+      "hresult": "0x0",
+      "byteCount": 17216,
+      "messages": ""
+    }
+  },
+  {
+    "source": "Decompiled/Vulkan/HLSL/a3e294536ed9943d79bdd21d8e9e2723c1ac80e681318668c2e507baf2dad74a.hlsl",
+    "spirv": "Programs/SPIRV/a3e294536ed9943d79bdd21d8e9e2723c1ac80e681318668c2e507baf2dad74a.spv",
+    "profile": "ps_5_0",
+    "reason": "Vulkan binding numbers exceed D3D11 sampler slot limit",
+    "requiresHostBindingChange": true,
+    "file": "Adapted/VulkanSM5/a3e294536ed9943d79bdd21d8e9e2723c1ac80e681318668c2e507baf2dad74a.hlsl",
+    "samplerSlotRemap": {
+      "15": 0,
+      "16": 1,
+      "17": 2,
+      "18": 3
+    },
+    "compile": {
+      "success": true,
+      "hresult": "0x0",
+      "byteCount": 32388,
+      "messages": ""
+    }
+  },
+  {
+    "source": "Decompiled/Vulkan/HLSL/a6a0b22ac25ec101b1e9e6e983e1a7e8997c2f1ddddf5b1e408beb163fff699b.hlsl",
+    "spirv": "Programs/SPIRV/a6a0b22ac25ec101b1e9e6e983e1a7e8997c2f1ddddf5b1e408beb163fff699b.spv",
+    "profile": "vs_5_0",
+    "reason": "Vulkan binding numbers exceed D3D11 sampler slot limit",
+    "requiresHostBindingChange": true,
+    "file": "Adapted/VulkanSM5/a6a0b22ac25ec101b1e9e6e983e1a7e8997c2f1ddddf5b1e408beb163fff699b.hlsl",
+    "samplerSlotRemap": {
+      "25": 0,
+      "31": 1,
+      "32": 2,
+      "33": 3
+    },
+    "compile": {
+      "success": true,
+      "hresult": "0x0",
+      "byteCount": 18340,
+      "messages": "E:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(297,20-25): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(298,20-25): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(299,20-25): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(303,20-25): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(304,20-25): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(305,20-25): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(309,40-45): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(314,27-32): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(314,66-71): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(316,27-32): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(325,39-44): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(341,30-35): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(342,20-25): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(343,20-25): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(344,20-25): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(347,19-24): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(347,45-50): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(486,43-48): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(496,37-42): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(498,28-33): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(500,19-24): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(501,19-24): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(507,30-35): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(508,30-35): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(509,30-35): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(516,39-44): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(518,28-33): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(520,28-33): warning X3556: integer divides may be much slower, try using uints if possible.\n\u0000"
+    }
+  },
+  {
+    "source": "Decompiled/Vulkan/HLSL/a83437f1ceb63349fdbb25ed02d19d40ee6d4e5e91d0dc7d264eb11363403dfb.hlsl",
+    "spirv": "Programs/SPIRV/a83437f1ceb63349fdbb25ed02d19d40ee6d4e5e91d0dc7d264eb11363403dfb.spv",
+    "profile": "ps_5_0",
+    "reason": "Vulkan binding numbers exceed D3D11 sampler slot limit",
+    "requiresHostBindingChange": true,
+    "file": "Adapted/VulkanSM5/a83437f1ceb63349fdbb25ed02d19d40ee6d4e5e91d0dc7d264eb11363403dfb.hlsl",
+    "samplerSlotRemap": {
+      "14": 0,
+      "15": 1,
+      "16": 2,
+      "17": 3,
+      "18": 4
+    },
+    "compile": {
+      "success": true,
+      "hresult": "0x0",
+      "byteCount": 19036,
+      "messages": ""
+    }
+  },
+  {
+    "source": "Decompiled/Vulkan/HLSL/a9bdb20ce2829e0ecd8035281b5a68be7c35e8e380ebb141353593ec8a899516.hlsl",
+    "spirv": "Programs/SPIRV/a9bdb20ce2829e0ecd8035281b5a68be7c35e8e380ebb141353593ec8a899516.spv",
+    "profile": "vs_5_0",
+    "reason": "Vulkan binding numbers exceed D3D11 sampler slot limit",
+    "requiresHostBindingChange": true,
+    "file": "Adapted/VulkanSM5/a9bdb20ce2829e0ecd8035281b5a68be7c35e8e380ebb141353593ec8a899516.hlsl",
+    "samplerSlotRemap": {
+      "9": 0,
+      "15": 1,
+      "16": 2,
+      "17": 3
+    },
+    "compile": {
+      "success": true,
+      "hresult": "0x0",
+      "byteCount": 14492,
+      "messages": ""
+    }
+  },
+  {
+    "source": "Decompiled/Vulkan/HLSL/aa7d56d253e863dabc11e92ec941446e2cd0fe1c0ba26eab29bc1ee6de408415.hlsl",
+    "spirv": "Programs/SPIRV/aa7d56d253e863dabc11e92ec941446e2cd0fe1c0ba26eab29bc1ee6de408415.spv",
+    "profile": "ps_5_0",
+    "reason": "Vulkan binding numbers exceed D3D11 sampler slot limit",
+    "requiresHostBindingChange": true,
+    "file": "Adapted/VulkanSM5/aa7d56d253e863dabc11e92ec941446e2cd0fe1c0ba26eab29bc1ee6de408415.hlsl",
+    "samplerSlotRemap": {
+      "20": 0,
+      "21": 1,
+      "22": 2
+    },
+    "compile": {
+      "success": true,
+      "hresult": "0x0",
+      "byteCount": 31824,
+      "messages": ""
+    }
+  },
+  {
+    "source": "Decompiled/Vulkan/HLSL/ab9e4fda04e3d48712dc659882f1cbf3cbca55d999efc60e81a8c1abde63d305.hlsl",
+    "spirv": "Programs/SPIRV/ab9e4fda04e3d48712dc659882f1cbf3cbca55d999efc60e81a8c1abde63d305.spv",
+    "profile": "ps_5_0",
+    "reason": "Vulkan binding numbers exceed D3D11 sampler slot limit",
+    "requiresHostBindingChange": true,
+    "file": "Adapted/VulkanSM5/ab9e4fda04e3d48712dc659882f1cbf3cbca55d999efc60e81a8c1abde63d305.hlsl",
+    "samplerSlotRemap": {
+      "14": 0,
+      "15": 1,
+      "16": 2,
+      "17": 3,
+      "18": 4
+    },
+    "compile": {
+      "success": true,
+      "hresult": "0x0",
+      "byteCount": 20844,
+      "messages": ""
+    }
+  },
+  {
+    "source": "Decompiled/Vulkan/HLSL/b31d812f1dec596f9665383cfb12aaf8f6ed219e178c5ab24b2fe86e061465e9.hlsl",
+    "spirv": "Programs/SPIRV/b31d812f1dec596f9665383cfb12aaf8f6ed219e178c5ab24b2fe86e061465e9.spv",
+    "profile": "ps_5_0",
+    "reason": "Vulkan binding numbers exceed D3D11 sampler slot limit",
+    "requiresHostBindingChange": true,
+    "file": "Adapted/VulkanSM5/b31d812f1dec596f9665383cfb12aaf8f6ed219e178c5ab24b2fe86e061465e9.hlsl",
+    "samplerSlotRemap": {
+      "15": 0,
+      "16": 1,
+      "17": 2,
+      "18": 3,
+      "19": 4,
+      "20": 5
+    },
+    "compile": {
+      "success": true,
+      "hresult": "0x0",
+      "byteCount": 22140,
+      "messages": ""
+    }
+  },
+  {
+    "source": "Decompiled/Vulkan/HLSL/b6dc801fbdf20464c24d20ddf03796bb514bc1d0598e373d80b5151151e2cf8f.hlsl",
+    "spirv": "Programs/SPIRV/b6dc801fbdf20464c24d20ddf03796bb514bc1d0598e373d80b5151151e2cf8f.spv",
+    "profile": "ps_5_0",
+    "reason": "Vulkan binding numbers exceed D3D11 sampler slot limit",
+    "requiresHostBindingChange": true,
+    "file": "Adapted/VulkanSM5/b6dc801fbdf20464c24d20ddf03796bb514bc1d0598e373d80b5151151e2cf8f.hlsl",
+    "samplerSlotRemap": {
+      "14": 0,
+      "15": 1,
+      "16": 2,
+      "17": 3,
+      "18": 4
+    },
+    "compile": {
+      "success": true,
+      "hresult": "0x0",
+      "byteCount": 19848,
+      "messages": ""
+    }
+  },
+  {
+    "source": "Decompiled/Vulkan/HLSL/ba02af5525aaf355b639eaefbf4ca9d3bb06f8506451ad0c6093b2438bda70b1.hlsl",
+    "spirv": "Programs/SPIRV/ba02af5525aaf355b639eaefbf4ca9d3bb06f8506451ad0c6093b2438bda70b1.spv",
+    "profile": "ps_5_0",
+    "reason": "Vulkan binding numbers exceed D3D11 sampler slot limit",
+    "requiresHostBindingChange": true,
+    "file": "Adapted/VulkanSM5/ba02af5525aaf355b639eaefbf4ca9d3bb06f8506451ad0c6093b2438bda70b1.hlsl",
+    "samplerSlotRemap": {
+      "19": 0,
+      "20": 1,
+      "21": 2
+    },
+    "compile": {
+      "success": true,
+      "hresult": "0x0",
+      "byteCount": 31500,
+      "messages": ""
+    }
+  },
+  {
+    "source": "Decompiled/Vulkan/HLSL/c07dfdef6cab95e295899afbcab0192c2b37a2458a9ae00a8a709cedb4992606.hlsl",
+    "spirv": "Programs/SPIRV/c07dfdef6cab95e295899afbcab0192c2b37a2458a9ae00a8a709cedb4992606.spv",
+    "profile": "vs_5_0",
+    "reason": "Vulkan binding numbers exceed D3D11 sampler slot limit",
+    "requiresHostBindingChange": true,
+    "file": "Adapted/VulkanSM5/c07dfdef6cab95e295899afbcab0192c2b37a2458a9ae00a8a709cedb4992606.hlsl",
+    "samplerSlotRemap": {
+      "10": 0,
+      "16": 1,
+      "17": 2
+    },
+    "compile": {
+      "success": true,
+      "hresult": "0x0",
+      "byteCount": 16752,
+      "messages": ""
+    }
+  },
+  {
+    "source": "Decompiled/Vulkan/HLSL/c0af39445540248e2352193a2d418fed6a74b32f4dff51201de6bfad39a855c5.hlsl",
+    "spirv": "Programs/SPIRV/c0af39445540248e2352193a2d418fed6a74b32f4dff51201de6bfad39a855c5.spv",
+    "profile": "ps_5_0",
+    "reason": "Vulkan binding numbers exceed D3D11 sampler slot limit",
+    "requiresHostBindingChange": true,
+    "file": "Adapted/VulkanSM5/c0af39445540248e2352193a2d418fed6a74b32f4dff51201de6bfad39a855c5.hlsl",
+    "samplerSlotRemap": {
+      "17": 0,
+      "18": 1,
+      "19": 2,
+      "20": 3,
+      "21": 4,
+      "22": 5
+    },
+    "compile": {
+      "success": true,
+      "hresult": "0x0",
+      "byteCount": 26180,
+      "messages": ""
+    }
+  },
+  {
+    "source": "Decompiled/Vulkan/HLSL/c5e16a754b1f8df838c8cfe30146327bbb5381129d120963bf7a06708c9fbd76.hlsl",
+    "spirv": "Programs/SPIRV/c5e16a754b1f8df838c8cfe30146327bbb5381129d120963bf7a06708c9fbd76.spv",
+    "profile": "ps_5_0",
+    "reason": "Vulkan binding numbers exceed D3D11 sampler slot limit",
+    "requiresHostBindingChange": true,
+    "file": "Adapted/VulkanSM5/c5e16a754b1f8df838c8cfe30146327bbb5381129d120963bf7a06708c9fbd76.hlsl",
+    "samplerSlotRemap": {
+      "19": 0,
+      "20": 1,
+      "21": 2
+    },
+    "compile": {
+      "success": true,
+      "hresult": "0x0",
+      "byteCount": 31404,
+      "messages": ""
+    }
+  },
+  {
+    "source": "Decompiled/Vulkan/HLSL/c82b9548995bf8563fdee213b3cc9a8c50880865954055e97a7567412fca5826.hlsl",
+    "spirv": "Programs/SPIRV/c82b9548995bf8563fdee213b3cc9a8c50880865954055e97a7567412fca5826.spv",
+    "profile": "ps_5_0",
+    "reason": "Vulkan binding numbers exceed D3D11 sampler slot limit",
+    "requiresHostBindingChange": true,
+    "file": "Adapted/VulkanSM5/c82b9548995bf8563fdee213b3cc9a8c50880865954055e97a7567412fca5826.hlsl",
+    "samplerSlotRemap": {
+      "15": 0,
+      "16": 1,
+      "17": 2,
+      "18": 3,
+      "19": 4,
+      "20": 5
+    },
+    "compile": {
+      "success": true,
+      "hresult": "0x0",
+      "byteCount": 20316,
+      "messages": ""
+    }
+  },
+  {
+    "source": "Decompiled/Vulkan/HLSL/cac2ff15d92856f17ac1023df018e13bbabbb626c25d254a2ed53df2682c91f4.hlsl",
+    "spirv": "Programs/SPIRV/cac2ff15d92856f17ac1023df018e13bbabbb626c25d254a2ed53df2682c91f4.spv",
+    "profile": "vs_5_0",
+    "reason": "Vulkan binding numbers exceed D3D11 sampler slot limit",
+    "requiresHostBindingChange": true,
+    "file": "Adapted/VulkanSM5/cac2ff15d92856f17ac1023df018e13bbabbb626c25d254a2ed53df2682c91f4.hlsl",
+    "samplerSlotRemap": {
+      "25": 0,
+      "31": 1,
+      "32": 2,
+      "33": 3
+    },
+    "compile": {
+      "success": true,
+      "hresult": "0x0",
+      "byteCount": 17244,
+      "messages": ""
+    }
+  },
+  {
+    "source": "Decompiled/Vulkan/HLSL/cad853e1fb5adcd22b0c2e61c3da06117faa9558ce3004ce7e2a693048712d83.hlsl",
+    "spirv": "Programs/SPIRV/cad853e1fb5adcd22b0c2e61c3da06117faa9558ce3004ce7e2a693048712d83.spv",
+    "profile": "vs_5_0",
+    "reason": "Vulkan binding numbers exceed D3D11 sampler slot limit",
+    "requiresHostBindingChange": true,
+    "file": "Adapted/VulkanSM5/cad853e1fb5adcd22b0c2e61c3da06117faa9558ce3004ce7e2a693048712d83.hlsl",
+    "samplerSlotRemap": {
+      "10": 0,
+      "16": 1,
+      "17": 2
+    },
+    "compile": {
+      "success": true,
+      "hresult": "0x0",
+      "byteCount": 16676,
+      "messages": ""
+    }
+  },
+  {
+    "source": "Decompiled/Vulkan/HLSL/cddec273943cea4c97b2b9d95278eb723167a03344981afb56c7286ba8c7561a.hlsl",
+    "spirv": "Programs/SPIRV/cddec273943cea4c97b2b9d95278eb723167a03344981afb56c7286ba8c7561a.spv",
+    "profile": "ps_5_0",
+    "reason": "Vulkan binding numbers exceed D3D11 sampler slot limit",
+    "requiresHostBindingChange": true,
+    "file": "Adapted/VulkanSM5/cddec273943cea4c97b2b9d95278eb723167a03344981afb56c7286ba8c7561a.hlsl",
+    "samplerSlotRemap": {
+      "20": 0,
+      "21": 1,
+      "22": 2
+    },
+    "compile": {
+      "success": true,
+      "hresult": "0x0",
+      "byteCount": 31828,
+      "messages": ""
+    }
+  },
+  {
+    "source": "Decompiled/Vulkan/HLSL/d1a0d4116ee2d5ebda2991f5e4e3d884212abf241742c72bb87fea51800c892f.hlsl",
+    "spirv": "Programs/SPIRV/d1a0d4116ee2d5ebda2991f5e4e3d884212abf241742c72bb87fea51800c892f.spv",
+    "profile": "ps_5_0",
+    "reason": "Vulkan binding numbers exceed D3D11 sampler slot limit",
+    "requiresHostBindingChange": true,
+    "file": "Adapted/VulkanSM5/d1a0d4116ee2d5ebda2991f5e4e3d884212abf241742c72bb87fea51800c892f.hlsl",
+    "samplerSlotRemap": {
+      "20": 0,
+      "21": 1,
+      "22": 2,
+      "23": 3,
+      "24": 4,
+      "25": 5,
+      "26": 6
+    },
+    "compile": {
+      "success": true,
+      "hresult": "0x0",
+      "byteCount": 45504,
+      "messages": ""
+    }
+  },
+  {
+    "source": "Decompiled/Vulkan/HLSL/d3f15e285759e843da47407cc6f81963cd303b39c34162f4130f4f39688ae4f6.hlsl",
+    "spirv": "Programs/SPIRV/d3f15e285759e843da47407cc6f81963cd303b39c34162f4130f4f39688ae4f6.spv",
+    "profile": "ps_5_0",
+    "reason": "Vulkan binding numbers exceed D3D11 sampler slot limit",
+    "requiresHostBindingChange": true,
+    "file": "Adapted/VulkanSM5/d3f15e285759e843da47407cc6f81963cd303b39c34162f4130f4f39688ae4f6.hlsl",
+    "samplerSlotRemap": {
+      "17": 0,
+      "18": 1,
+      "19": 2
+    },
+    "compile": {
+      "success": true,
+      "hresult": "0x0",
+      "byteCount": 29996,
+      "messages": ""
+    }
+  },
+  {
+    "source": "Decompiled/Vulkan/HLSL/d63374ae5bc54369a16b6f560df89b64aa6a6c821dbc1f2693ef9fa4d3af3a7d.hlsl",
+    "spirv": "Programs/SPIRV/d63374ae5bc54369a16b6f560df89b64aa6a6c821dbc1f2693ef9fa4d3af3a7d.spv",
+    "profile": "ps_5_0",
+    "reason": "Vulkan binding numbers exceed D3D11 sampler slot limit",
+    "requiresHostBindingChange": true,
+    "file": "Adapted/VulkanSM5/d63374ae5bc54369a16b6f560df89b64aa6a6c821dbc1f2693ef9fa4d3af3a7d.hlsl",
+    "samplerSlotRemap": {
+      "19": 0,
+      "20": 1,
+      "21": 2
+    },
+    "compile": {
+      "success": true,
+      "hresult": "0x0",
+      "byteCount": 31408,
+      "messages": ""
+    }
+  },
+  {
+    "source": "Decompiled/Vulkan/HLSL/d9527fa5ed014f066a3f821096d7dd2a2b3b7e177ec143b18f42b9a8939c87f9.hlsl",
+    "spirv": "Programs/SPIRV/d9527fa5ed014f066a3f821096d7dd2a2b3b7e177ec143b18f42b9a8939c87f9.spv",
+    "profile": "vs_5_0",
+    "reason": "Vulkan binding numbers exceed D3D11 sampler slot limit",
+    "requiresHostBindingChange": true,
+    "file": "Adapted/VulkanSM5/d9527fa5ed014f066a3f821096d7dd2a2b3b7e177ec143b18f42b9a8939c87f9.hlsl",
+    "samplerSlotRemap": {
+      "9": 0,
+      "15": 1,
+      "16": 2,
+      "17": 3
+    },
+    "compile": {
+      "success": true,
+      "hresult": "0x0",
+      "byteCount": 17244,
+      "messages": ""
+    }
+  },
+  {
+    "source": "Decompiled/Vulkan/HLSL/da43db20bacfb8a44436eeba93db218a9848bb4b175e7800d1ba8169411e50be.hlsl",
+    "spirv": "Programs/SPIRV/da43db20bacfb8a44436eeba93db218a9848bb4b175e7800d1ba8169411e50be.spv",
+    "profile": "ps_5_0",
+    "reason": "Vulkan binding numbers exceed D3D11 sampler slot limit",
+    "requiresHostBindingChange": true,
+    "file": "Adapted/VulkanSM5/da43db20bacfb8a44436eeba93db218a9848bb4b175e7800d1ba8169411e50be.hlsl",
+    "samplerSlotRemap": {
+      "14": 0,
+      "15": 1,
+      "16": 2,
+      "17": 3,
+      "18": 4
+    },
+    "compile": {
+      "success": true,
+      "hresult": "0x0",
+      "byteCount": 20504,
+      "messages": ""
+    }
+  },
+  {
+    "source": "Decompiled/Vulkan/HLSL/dc0a0bbc96d6ad951fdeaa819fa8dc1488c12d88be700089ab2f97bc60e8f0ba.hlsl",
+    "spirv": "Programs/SPIRV/dc0a0bbc96d6ad951fdeaa819fa8dc1488c12d88be700089ab2f97bc60e8f0ba.spv",
+    "profile": "ps_5_0",
+    "reason": "Vulkan binding numbers exceed D3D11 sampler slot limit",
+    "requiresHostBindingChange": true,
+    "file": "Adapted/VulkanSM5/dc0a0bbc96d6ad951fdeaa819fa8dc1488c12d88be700089ab2f97bc60e8f0ba.hlsl",
+    "samplerSlotRemap": {
+      "20": 0,
+      "21": 1,
+      "22": 2,
+      "23": 3,
+      "24": 4,
+      "25": 5,
+      "26": 6
+    },
+    "compile": {
+      "success": true,
+      "hresult": "0x0",
+      "byteCount": 40504,
+      "messages": ""
+    }
+  },
+  {
+    "source": "Decompiled/Vulkan/HLSL/e1524f452e8e1d8f5b25634dfe06c8ab7b4c496752550fb30e03e36c1cbc5b28.hlsl",
+    "spirv": "Programs/SPIRV/e1524f452e8e1d8f5b25634dfe06c8ab7b4c496752550fb30e03e36c1cbc5b28.spv",
+    "profile": "vs_5_0",
+    "reason": "Vulkan binding numbers exceed D3D11 sampler slot limit",
+    "requiresHostBindingChange": true,
+    "file": "Adapted/VulkanSM5/e1524f452e8e1d8f5b25634dfe06c8ab7b4c496752550fb30e03e36c1cbc5b28.hlsl",
+    "samplerSlotRemap": {
+      "26": 0,
+      "32": 1,
+      "33": 2
+    },
+    "compile": {
+      "success": true,
+      "hresult": "0x0",
+      "byteCount": 17828,
+      "messages": "E:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(294,34-40): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(296,27-33): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(298,27-33): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(300,28-34): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(301,20-26): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(302,20-26): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(303,20-26): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(311,27-33): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(311,67-73): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(313,27-33): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(315,21-27): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(316,21-27): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(317,21-27): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(321,21-27): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(322,21-27): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(323,21-27): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(335,29-35): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(336,20-26): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(337,20-26): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(338,20-26): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(365,29-35): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(366,20-26): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(367,20-26): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(449,36-42): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(451,27-33): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(453,27-33): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(489,37-43): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(491,28-34): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(498,36-42): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(500,28-34): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(502,18-24): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(503,18-24): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(509,31-37): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(510,31-37): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(511,31-37): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(518,39-45): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(520,28-34): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(522,28-34): warning X3556: integer divides may be much slower, try using uints if possible.\n\u0000"
+    }
+  },
+  {
+    "source": "Decompiled/Vulkan/HLSL/e8ade70877cad9c4149a212750c0c6df14abb68631a73250b797048718ed12a7.hlsl",
+    "spirv": "Programs/SPIRV/e8ade70877cad9c4149a212750c0c6df14abb68631a73250b797048718ed12a7.spv",
+    "profile": "vs_5_0",
+    "reason": "Vulkan binding numbers exceed D3D11 sampler slot limit",
+    "requiresHostBindingChange": true,
+    "file": "Adapted/VulkanSM5/e8ade70877cad9c4149a212750c0c6df14abb68631a73250b797048718ed12a7.hlsl",
+    "samplerSlotRemap": {
+      "25": 0,
+      "31": 1,
+      "32": 2,
+      "33": 3
+    },
+    "compile": {
+      "success": true,
+      "hresult": "0x0",
+      "byteCount": 18336,
+      "messages": "E:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(301,20-25): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(302,20-25): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(303,20-25): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(307,20-25): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(308,20-25): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(309,20-25): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(313,40-45): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(318,27-32): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(318,66-71): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(320,27-32): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(330,39-44): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(346,30-35): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(347,20-25): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(348,20-25): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(349,20-25): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(352,19-24): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(352,45-50): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(477,42-47): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(487,37-42): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(489,28-33): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(491,19-24): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(492,19-24): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(498,30-35): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(499,30-35): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(500,30-35): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(507,39-44): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(509,28-33): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(511,28-33): warning X3556: integer divides may be much slower, try using uints if possible.\n\u0000"
+    }
+  },
+  {
+    "source": "Decompiled/Vulkan/HLSL/eb403668022882cdf565030ce37a452bb678cb5d34ec601638fc6ce7fa2caea4.hlsl",
+    "spirv": "Programs/SPIRV/eb403668022882cdf565030ce37a452bb678cb5d34ec601638fc6ce7fa2caea4.spv",
+    "profile": "vs_5_0",
+    "reason": "Vulkan binding numbers exceed D3D11 sampler slot limit",
+    "requiresHostBindingChange": true,
+    "file": "Adapted/VulkanSM5/eb403668022882cdf565030ce37a452bb678cb5d34ec601638fc6ce7fa2caea4.hlsl",
+    "samplerSlotRemap": {
+      "10": 0,
+      "16": 1,
+      "17": 2
+    },
+    "compile": {
+      "success": true,
+      "hresult": "0x0",
+      "byteCount": 17828,
+      "messages": "E:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(294,34-40): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(296,27-33): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(298,27-33): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(300,28-34): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(301,20-26): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(302,20-26): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(303,20-26): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(311,27-33): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(311,67-73): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(313,27-33): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(315,21-27): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(316,21-27): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(317,21-27): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(321,21-27): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(322,21-27): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(323,21-27): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(335,29-35): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(336,20-26): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(337,20-26): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(338,20-26): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(365,29-35): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(366,20-26): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(367,20-26): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(449,36-42): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(451,27-33): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(453,27-33): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(489,37-43): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(491,28-34): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(498,36-42): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(500,28-34): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(502,18-24): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(503,18-24): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(509,31-37): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(510,31-37): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(511,31-37): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(518,39-45): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(520,28-34): warning X3556: integer divides may be much slower, try using uints if possible.\nE:\\steam\\steamapps\\common\\REPLACED Demo\\recovered.hlsl(522,28-34): warning X3556: integer divides may be much slower, try using uints if possible.\n\u0000"
+    }
+  },
+  {
+    "source": "Decompiled/Vulkan/HLSL/ebbb8006c90f2c813ed6a3fda3ac05cd5aa0c3196f662793cd83f58ed8bda990.hlsl",
+    "spirv": "Programs/SPIRV/ebbb8006c90f2c813ed6a3fda3ac05cd5aa0c3196f662793cd83f58ed8bda990.spv",
+    "profile": "ps_5_0",
+    "reason": "Vulkan binding numbers exceed D3D11 sampler slot limit",
+    "requiresHostBindingChange": true,
+    "file": "Adapted/VulkanSM5/ebbb8006c90f2c813ed6a3fda3ac05cd5aa0c3196f662793cd83f58ed8bda990.hlsl",
+    "samplerSlotRemap": {
+      "19": 0,
+      "20": 1,
+      "21": 2,
+      "22": 3,
+      "23": 4,
+      "24": 5,
+      "25": 6,
+      "26": 7
+    },
+    "compile": {
+      "success": true,
+      "hresult": "0x0",
+      "byteCount": 28176,
+      "messages": ""
+    }
+  },
+  {
+    "source": "Decompiled/Vulkan/HLSL/ef02afe040b26602f00b046fca8d23ad7936ef5ab8c2afe717eb1e17d2f0c3de.hlsl",
+    "spirv": "Programs/SPIRV/ef02afe040b26602f00b046fca8d23ad7936ef5ab8c2afe717eb1e17d2f0c3de.spv",
+    "profile": "ps_5_0",
+    "reason": "Vulkan binding numbers exceed D3D11 sampler slot limit",
+    "requiresHostBindingChange": true,
+    "file": "Adapted/VulkanSM5/ef02afe040b26602f00b046fca8d23ad7936ef5ab8c2afe717eb1e17d2f0c3de.hlsl",
+    "samplerSlotRemap": {
+      "22": 0,
+      "23": 1,
+      "24": 2,
+      "25": 3,
+      "26": 4,
+      "27": 5
+    },
+    "compile": {
+      "success": true,
+      "hresult": "0x0",
+      "byteCount": 43092,
+      "messages": ""
+    }
+  },
+  {
+    "source": "Decompiled/Vulkan/HLSL/f3b4c6f13dbc87bb545b6ef7d7352a24ac65beb72c367e8746fd51156dea9e08.hlsl",
+    "spirv": "Programs/SPIRV/f3b4c6f13dbc87bb545b6ef7d7352a24ac65beb72c367e8746fd51156dea9e08.spv",
+    "profile": "ps_5_0",
+    "reason": "Vulkan binding numbers exceed D3D11 sampler slot limit",
+    "requiresHostBindingChange": true,
+    "file": "Adapted/VulkanSM5/f3b4c6f13dbc87bb545b6ef7d7352a24ac65beb72c367e8746fd51156dea9e08.hlsl",
+    "samplerSlotRemap": {
+      "14": 0,
+      "15": 1,
+      "16": 2,
+      "17": 3,
+      "18": 4
+    },
+    "compile": {
+      "success": true,
+      "hresult": "0x0",
+      "byteCount": 20112,
+      "messages": ""
+    }
+  },
+  {
+    "source": "Decompiled/Vulkan/HLSL/f80e8b45a33fbd7c87822ea392b9ee316deb638934fb4f3657b1e61f6e99c94c.hlsl",
+    "spirv": "Programs/SPIRV/f80e8b45a33fbd7c87822ea392b9ee316deb638934fb4f3657b1e61f6e99c94c.spv",
+    "profile": "vs_5_0",
+    "reason": "Vulkan binding numbers exceed D3D11 sampler slot limit",
+    "requiresHostBindingChange": true,
+    "file": "Adapted/VulkanSM5/f80e8b45a33fbd7c87822ea392b9ee316deb638934fb4f3657b1e61f6e99c94c.hlsl",
+    "samplerSlotRemap": {
+      "26": 0,
+      "32": 1,
+      "33": 2
+    },
+    "compile": {
+      "success": true,
+      "hresult": "0x0",
+      "byteCount": 16676,
+      "messages": ""
+    }
+  },
+  {
+    "source": "Decompiled/Vulkan/HLSL/f841ebc97ae03499782c335cc2d25d10f8e54e1cf46f95a9230fa25f19752e1f.hlsl",
+    "spirv": "Programs/SPIRV/f841ebc97ae03499782c335cc2d25d10f8e54e1cf46f95a9230fa25f19752e1f.spv",
+    "profile": "ps_5_0",
+    "reason": "Vulkan binding numbers exceed D3D11 sampler slot limit",
+    "requiresHostBindingChange": true,
+    "file": "Adapted/VulkanSM5/f841ebc97ae03499782c335cc2d25d10f8e54e1cf46f95a9230fa25f19752e1f.hlsl",
+    "samplerSlotRemap": {
+      "14": 0,
+      "15": 1,
+      "16": 2,
+      "17": 3,
+      "18": 4
+    },
+    "compile": {
+      "success": true,
+      "hresult": "0x0",
+      "byteCount": 19772,
+      "messages": ""
+    }
+  },
+  {
+    "source": "Decompiled/Vulkan/HLSL/f8895ab9a2c6c9bc9ea8c9eda2b8e060ff3db62f286170db35dc6a40ca991bdf.hlsl",
+    "spirv": "Programs/SPIRV/f8895ab9a2c6c9bc9ea8c9eda2b8e060ff3db62f286170db35dc6a40ca991bdf.spv",
+    "profile": "ps_5_0",
+    "reason": "Vulkan binding numbers exceed D3D11 sampler slot limit",
+    "requiresHostBindingChange": true,
+    "file": "Adapted/VulkanSM5/f8895ab9a2c6c9bc9ea8c9eda2b8e060ff3db62f286170db35dc6a40ca991bdf.hlsl",
+    "samplerSlotRemap": {
+      "15": 0,
+      "16": 1,
+      "17": 2,
+      "18": 3,
+      "19": 4,
+      "20": 5
+    },
+    "compile": {
+      "success": true,
+      "hresult": "0x0",
+      "byteCount": 20812,
+      "messages": ""
+    }
+  },
+  {
+    "source": "Decompiled/Vulkan/HLSL/f9c4e4b818aafd301d30d88a5c8fd71f23e6555a80e8de936bf9405d3e3966bb.hlsl",
+    "spirv": "Programs/SPIRV/f9c4e4b818aafd301d30d88a5c8fd71f23e6555a80e8de936bf9405d3e3966bb.spv",
+    "profile": "vs_5_0",
+    "reason": "Vulkan binding numbers exceed D3D11 sampler slot limit",
+    "requiresHostBindingChange": true,
+    "file": "Adapted/VulkanSM5/f9c4e4b818aafd301d30d88a5c8fd71f23e6555a80e8de936bf9405d3e3966bb.hlsl",
+    "samplerSlotRemap": {
+      "26": 0,
+      "32": 1,
+      "33": 2
+    },
+    "compile": {
+      "success": true,
+      "hresult": "0x0",
+      "byteCount": 16752,
+      "messages": ""
+    }
+  }
+]

@@ -1,0 +1,27 @@
+{
+  "archive": "Shader_Recovery.zip",
+  "sha256": "1ed0b76887ba5713a74823966f978f6b03603662bed2a7a6c4dc50fed0f49437",
+  "bytes": 46393489,
+  "parts": [
+    {
+      "name": "Shader_Recovery.zip.001",
+      "bytes": 12582912,
+      "sha256": "4eebd8b315210b9ff1d056c4177409887aff646affbf00b2c33a72179f6f43c0"
+    },
+    {
+      "name": "Shader_Recovery.zip.002",
+      "bytes": 12582912,
+      "sha256": "e6c276f6ad377c853c4ee6762cf409fd26e05b5a2c53fe01dcf98e21928e1433"
+    },
+    {
+      "name": "Shader_Recovery.zip.003",
+      "bytes": 12582912,
+      "sha256": "b504da5b8bef94dd8201a926ab1d2eabb4b06390bccea99a2e4b1ac16929cabb"
+    },
+    {
+      "name": "Shader_Recovery.zip.004",
+      "bytes": 8644753,
+      "sha256": "885ed39e4158831022f20c9e0aca3738a239a8c478691538edfd055e097e78d8"
+    }
+  ]
+}

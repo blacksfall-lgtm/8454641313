@@ -1,0 +1,15 @@
+{
+  "Shader": 150,
+  "DXBCDisassembled": 1050,
+  "variantEntriesExtracted": 3216,
+  "duplicateSerializedObjects": 14,
+  "ComputeShader": 32,
+  "programsByKind": {
+    "UnityD3D11": 938,
+    "DXBC": 1050,
+    "UnityVulkan": 788,
+    "SMOLV": 939,
+    "SPIRV": 113,
+    "ComputeOther": 116
+  }
+}

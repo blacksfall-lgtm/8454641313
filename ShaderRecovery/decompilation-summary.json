@@ -1,0 +1,14 @@
+{
+  "DXBC": {
+    "total": 1050,
+    "hlsl": 1040,
+    "recompiled": 835
+  },
+  "SPIRV": {
+    "total": 1052,
+    "hlsl": 1046,
+    "glsl": 1052,
+    "reflection": 1052,
+    "recompiled": 964
+  }
+}
